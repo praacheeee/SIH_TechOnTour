@@ -1,237 +1,237 @@
-﻿place_name,state_ut,district,city_or_town,nearest_major_city,category
-India Gate,Delhi,New Delhi,New Delhi,New Delhi,Heritage
-National War Memorial,Delhi,New Delhi,New Delhi,New Delhi,Monument
-Red Fort,Delhi,Central Delhi,Old Delhi,Delhi,Heritage
-Jama Masjid Delhi,Delhi,Central Delhi,Chandni Chowk,Old Delhi,Religious
-Chandni Chowk,Delhi,Central Delhi,Old Delhi,Old Delhi,Market
-Khari Baoli,Delhi,Central Delhi,Old Delhi,Delhi,Market
-Dariba Kalan,Delhi,Central Delhi,Chandni Chowk,Delhi,Market
-Gali Qasim Jan and Mirza Ghalib Haveli,Delhi,Central Delhi,Old Delhi,Delhi,Heritage
-Fatehpuri Masjid,Delhi,Central Delhi,Chandni Chowk,Delhi,Heritage
-Gauri Shankar Mandir,Delhi,Central Delhi,Chandni Chowk,Delhi,Religious
-Central Baptist Church,Delhi,Central Delhi,Chandni Chowk,Delhi,Heritage
-Gurudwara Sis Ganj Sahib,Delhi,Central Delhi,Chandni Chowk,Delhi,Religious
-Shri Digambar Jain Lal Mandir,Delhi,Central Delhi,Chandni Chowk,Delhi,Religious
-Diwan-i-Am Red Fort,Delhi,Central Delhi,Old Delhi,Delhi,Heritage
-Diwan-i-Khas Red Fort,Delhi,Central Delhi,Old Delhi,Delhi,Heritage
-Moti Masjid Red Fort,Delhi,Central Delhi,Old Delhi,Delhi,Heritage
-Naubat Khana Red Fort,Delhi,Central Delhi,Old Delhi,Delhi,Heritage
-Hayat Bakhsh Bagh Red Fort,Delhi,Central Delhi,Old Delhi,Delhi,Garden
-Rang Mahal Red Fort,Delhi,Central Delhi,Old Delhi,Delhi,Heritage
-Salimgarh Fort,Delhi,Central Delhi,Old Delhi,Old Delhi,Fort
-Firoz Shah Kotla,Delhi,Central Delhi,ITO,Delhi,Heritage
-Ashokan Pillar Firoz Shah Kotla,Delhi,Central Delhi,ITO,Delhi,Heritage
-Jami Masjid of Firozabad,Delhi,Central Delhi,ITO,Delhi,Heritage
-National Gandhi Museum,Delhi,Central Delhi,Raj Ghat,New Delhi,Museum
-Raj Ghat,Delhi,Central Delhi,Raj Ghat,New Delhi,Monument
-National Science Centre,Delhi,Central Delhi,Pragati Maidan,Delhi,Museum
-National Zoological Park,Delhi,Central Delhi,Mathura Road,New Delhi,Wildlife
-National Children's Museum,Delhi,Central Delhi,Kotla Road,Delhi,Museum
-Shankar's International Dolls Museum,Delhi,Central Delhi,ITO,Delhi,Museum
-Town Hall Old Delhi,Delhi,Central Delhi,Chandni Chowk,Delhi,Heritage
-Qudsia Bagh,Delhi,North Delhi,Civil Lines,Delhi,Garden
-Baradari Qudsia Garden,Delhi,North Delhi,Civil Lines,Delhi,Heritage
-Dara Shikoh Library Building,Delhi,North Delhi,Kashmere Gate,Delhi,Heritage
-St. James' Church,Delhi,North Delhi,Kashmere Gate,Delhi,Heritage
-Coronation Memorial,Delhi,North Delhi,Burari,Delhi,Monument
-Roshanara Garden,Delhi,North Delhi,Shakti Nagar,Delhi,Garden
-Roshanara Begum Tomb,Delhi,North Delhi,Shakti Nagar,Delhi,Heritage
-Wazirabad Mosque,Delhi,North Delhi,Wazirabad,Delhi,Heritage
-Wazirabad Tomb and Firoz Shah's Bridge,Delhi,North Delhi,Wazirabad,Delhi,Heritage
-Yamuna Biodiversity Park,Delhi,North Delhi,Wazirabad,Delhi,Wildlife
-Kamla Nehru Ridge,Delhi,North Delhi,Civil Lines,Delhi,Wildlife
-Flagstaff Tower,Delhi,North Delhi,Civil Lines,Delhi,Heritage
-Mutiny Memorial,Delhi,North Delhi,Civil Lines,Delhi,Monument
-Northern Ridge Guard House,Delhi,North Delhi,Civil Lines,Delhi,Heritage
-Southern Ridge Guard House,Delhi,North Delhi,Civil Lines,Delhi,Heritage
-Gurudwara Majnu Ka Tilla,Delhi,North Delhi,Civil Lines,Delhi,Religious
-Adventure Island Rohini,Delhi,North West Delhi,Rohini,Delhi,Amusement
-Metro Walk Rohini,Delhi,North West Delhi,Rohini,Delhi,Recreation
-Bawana Zail,Delhi,North West Delhi,Bawana,Delhi,Heritage
-Shalimar Garden and Sheesh Mahal,Delhi,North West Delhi,Shalimar Bagh,Delhi,Heritage
-Guru Tegh Bahadur Memorial,Delhi,North West Delhi,Singhu,Delhi,Monument
-Dilli Haat Pitampura,Delhi,North West Delhi,Pitampura,Delhi,Market
-Hashtsal Minar,Delhi,West Delhi,Hashtsal,Delhi,Heritage
-Rajouri Garden,Delhi,West Delhi,Rajouri Garden,Delhi,Market
-Tagore Garden,Delhi,West Delhi,Tagore Garden,Delhi,Nature
-Bharat Darshan Park,Delhi,West Delhi,Punjabi Bagh,Delhi,Recreation
-India Habitat Centre,Delhi,New Delhi,Lodhi Road,Delhi,Cultural
-Connaught Place,Delhi,New Delhi,Connaught Place,New Delhi,Market
-Jantar Mantar,Delhi,New Delhi,Parliament Street,New Delhi,Heritage
-Agrasen Ki Baoli,Delhi,New Delhi,Hailey Road,New Delhi,Heritage
-Rashtrapati Bhavan,Delhi,New Delhi,Raisina Hill,New Delhi,Heritage
-Samvidhan Sadan,Delhi,New Delhi,Sansad Marg,New Delhi,Heritage
-Amrit Udyan,Delhi,New Delhi,President's Estate,New Delhi,Garden
-Cathedral Church of the Redemption,Delhi,New Delhi,Church Road,New Delhi,Heritage
-Gandhi Smriti,Delhi,New Delhi,Tees January Marg,New Delhi,Museum
-Indira Gandhi Memorial Museum,Delhi,New Delhi,Safdarjung Road,New Delhi,Museum
-Pradhanmantri Sangrahalaya,Delhi,New Delhi,Teen Murti,New Delhi,Museum
-Nehru Planetarium,Delhi,New Delhi,Teen Murti,New Delhi,Museum
-National Museum,Delhi,New Delhi,Janpath,New Delhi,Museum
-National Gallery of Modern Art,Delhi,New Delhi,India Gate,Delhi,Museum
-National Crafts Museum,Delhi,New Delhi,Pragati Maidan,Delhi,Museum
-National Rail Museum,Delhi,New Delhi,Chanakyapuri,Delhi,Museum
-National Philatelic Museum,Delhi,New Delhi,Sansad Marg,Delhi,Museum
-Delhi Metro Museum,Delhi,New Delhi,Patel Chowk,Delhi,Museum
-Supreme Court Museum,Delhi,New Delhi,Tilak Marg,Delhi,Museum
-Air Force Museum,Delhi,South West Delhi,Palam,Delhi,Museum
-Sulabh International Museum of Toilets,Delhi,South West Delhi,Mahavir Enclave,Delhi,Museum
-Gurudwara Bangla Sahib,Delhi,New Delhi,Connaught Place,Delhi,Religious
-Gurudwara Rakab Ganj Sahib,Delhi,New Delhi,New Delhi,Delhi,Religious
-Pracheen Hanuman Mandir,Delhi,New Delhi,Connaught Place,Delhi,Religious
-Birla Mandir,Delhi,New Delhi,Mandir Marg,Delhi,Religious
-Delhi Golf Club,Delhi,New Delhi,Lodhi Road,Delhi,Sports
-Buddha Jayanti Park,Delhi,New Delhi,Ridge Road,Delhi,Garden
-Nehru Park,Delhi,New Delhi,Chanakyapuri,New Delhi,Nature
-Aravalli Biodiversity Park,Delhi,South West Delhi,Vasant Kunj,Delhi,Wildlife
-Neela Hauz Biodiversity Park,Delhi,South West Delhi,Vasant Kunj,Delhi,Wildlife
-Sanjay Van,Delhi,South West Delhi,Mehrauli,Delhi,Wildlife
-Vasant Vihar Park,Delhi,South West Delhi,Vasant Vihar,New Delhi,Nature
-Indian Mountaineering Foundation,Delhi,South West Delhi,Moti Bagh,Delhi,Sports
-Mehram Nagar Katra,Delhi,South West Delhi,Delhi Cantonment,Delhi,Heritage
-Katra and Garden of Mehram Nagar,Delhi,South West Delhi,Delhi Cantonment,Delhi,Heritage
-Bara Lao Ka Gumbad,Delhi,South West Delhi,Vasant Vihar,Delhi,Heritage
-Adham Khan's Tomb,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Qutub Minar,Delhi,South Delhi,Mehrauli,New Delhi,Monument
-Quwwat-ul-Islam Mosque,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Iron Pillar,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Alai Darwaza,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Alai Minar,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Tomb of Iltutmish,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Tomb of Alauddin Khalji,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Mehrauli Archaeological Park,Delhi,South Delhi,Mehrauli,New Delhi,Heritage
-Jamali Kamali Mosque and Tomb,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Rajon Ki Baoli,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Balban's Tomb,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Lal Gumbad Mehrauli,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Mughal Jharna,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Jharna Mehrauli,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Anangtal Baoli,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Hauz-i-Shamsi,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Jahaz Mahal,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Metcalfe's Boathouse,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Metcalfe's Guest House,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Tomb of Muhammad Quli Khan,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Horse Stable Mehrauli Archaeological Park,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Sohail Wali Mosque,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Baghichi Ki Masjid,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Chaumachi Khan's Tomb,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Unknown Tomb Jharokha Mehrauli,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Unknown Tomb near Rajon Ki Baoli,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Unknown Tomb Behind Mehrauli Bus Terminal,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Unknown Tomb South of Lado Sarai,Delhi,South Delhi,Lado Sarai,Delhi,Heritage
-Mosque North East of Lado Sarai,Delhi,South Delhi,Lado Sarai,Delhi,Heritage
-Adilabad Fort,Delhi,South Delhi,Tughlaqabad,Delhi,Fort
-Tughlaqabad Fort,Delhi,South Delhi,Tughlaqabad,New Delhi,Fort
-Mausoleum of Ghiyasuddin Tughlaq,Delhi,South Delhi,Tughlaqabad,Delhi,Heritage
-Satpula Dam,Delhi,South Delhi,Khirki,Delhi,Heritage
-Khirki Mosque,Delhi,South Delhi,Khirki,Delhi,Heritage
-Moth Ki Masjid,Delhi,South Delhi,Uday Park,Delhi,Heritage
-Begumpur Mosque,Delhi,South Delhi,Begumpur,New Delhi,Heritage
-Bijay Mandal,Delhi,South Delhi,Begumpur,Delhi,Heritage
-Chor Minar,Delhi,South Delhi,Hauz Khas,Delhi,Heritage
-Hauz Khas Fort and Lake,Delhi,South Delhi,Hauz Khas,New Delhi,Heritage
-Tomb of Firoz Shah Tughlaq,Delhi,South Delhi,Hauz Khas,Delhi,Heritage
-Firoz Shah Tughlaq Madrasa,Delhi,South Delhi,Hauz Khas,Delhi,Heritage
-Munda Gumbad,Delhi,South Delhi,Hauz Khas,Delhi,Heritage
-Nili Mosque,Delhi,South Delhi,Hauz Khas,Delhi,Heritage
-Kali Gumti,Delhi,South Delhi,Hauz Khas,Delhi,Heritage
-Idgah of Kharehra,Delhi,South Delhi,Hauz Khas,Delhi,Heritage
-Dadi Poti Tombs,Delhi,South Delhi,Hauz Khas,Delhi,Heritage
-Green Park and Deer Park,Delhi,South Delhi,Hauz Khas,New Delhi,Nature
-Kotla Mubarakpur Tomb Complex,Delhi,South Delhi,Kotla Mubarakpur,Delhi,Heritage
-Bade Khan Tomb,Delhi,South Delhi,Kotla Mubarakpur,Delhi,Heritage
-Chhote Khan Tomb,Delhi,South Delhi,Kotla Mubarakpur,Delhi,Heritage
-Kala Gumbad Kotla Mubarakpur,Delhi,South Delhi,Kotla Mubarakpur,Delhi,Heritage
-Inchla Wali Gumti,Delhi,South Delhi,Kotla Mubarakpur,Delhi,Heritage
-Gandhak Ki Baoli,Delhi,South Delhi,Mehrauli,Delhi,Heritage
-Qila Rai Pithora,Delhi,South Delhi,Malviya Nagar,Delhi,Heritage
-Shahpur Jat,Delhi,South Delhi,Shahpur Jat,Delhi,Culture
-Jahanpanah City Forest,Delhi,South Delhi,Chirag Delhi,Delhi,Nature
-Tomb of Bahlol Lodi,Delhi,South Delhi,Chirag Delhi,Delhi,Heritage
-Lal Gumbad Chirag Delhi,Delhi,South Delhi,Chirag Delhi,Delhi,Heritage
-Chirag Delhi Historic Gateways,Delhi,South Delhi,Chirag Delhi,Delhi,Heritage
-Dargah Hazrat Qutbuddin Bakhtiyar Kaki,Delhi,South Delhi,Mehrauli,Delhi,Religious
-Shrine of Hazrat Nasiruddin Mahmud,Delhi,South Delhi,Chirag Delhi,Delhi,Religious
-Shri Adya Katyayani Shaktipeeth Mandir,Delhi,South Delhi,Chhatarpur,New Delhi,Religious
-Garden of Five Senses,Delhi,South Delhi,Said-ul-Azaib,New Delhi,Garden
-Tibet House Museum,Delhi,South Delhi,Lodhi Road,Delhi,Museum
-Siri Fort Citadel,Delhi,South Delhi,Siri Fort,Delhi,Heritage
-Sikandar Lodi Tomb,Delhi,New Delhi,Lodhi Garden,Delhi,Monument
-Bara Gumbad,Delhi,New Delhi,Lodhi Garden,Delhi,Monument
-Mohammad Shah Tomb,Delhi,New Delhi,Lodhi Garden,Delhi,Monument
-Shah Tomb Lodhi Garden,Delhi,New Delhi,Lodhi Garden,Delhi,Heritage
-Gol Gumbad,Delhi,New Delhi,Lodhi Road,Delhi,Heritage
-Phutta Gumbad,Delhi,New Delhi,J.N. Stadium,Delhi,Heritage
-Turret in Lodhi Garden,Delhi,New Delhi,Lodhi Garden,Delhi,Heritage
-Nameless Mosque Lodhi Garden,Delhi,New Delhi,Lodhi Garden,Delhi,Heritage
-Lodhi Garden Baoli and Garden Walls,Delhi,New Delhi,Lodhi Garden,Delhi,Heritage
-Sunder Nursery,Delhi,South East Delhi,Nizamuddin,New Delhi,Nature
-Humayun's Tomb,Delhi,South East Delhi,Nizamuddin East,New Delhi,Monument
-Isa Khan Niyazi Tomb,Delhi,South East Delhi,Nizamuddin,Delhi,Heritage
-Chausath Khamba,Delhi,South East Delhi,Nizamuddin Basti,Delhi,Heritage
-Arab Ki Sarai,Delhi,South East Delhi,Nizamuddin,Delhi,Heritage
-Tomb of Abdur Rahim Khan-i-Khana,Delhi,South East Delhi,Nizamuddin,Delhi,Heritage
-Nizamuddin Baoli,Delhi,South East Delhi,Nizamuddin,Delhi,Heritage
-Hazrat Nizamuddin Auliya Dargah,Delhi,South East Delhi,Nizamuddin West,New Delhi,Religious
-Kalindi Kunj,Delhi,South East Delhi,Okhla,Delhi,Nature
-Okhla Bird Sanctuary,Delhi,South East Delhi,Okhla,New Delhi,Wildlife
-Lotus Temple,Delhi,South East Delhi,Kalkaji,New Delhi,Religious
-ISKCON Temple Delhi,Delhi,South East Delhi,East of Kailash,New Delhi,Religious
-Shri Kalkaji Mandir,Delhi,South East Delhi,Kalkaji,Delhi,Religious
-Ashokan Rock Edict Bahapur,Delhi,South East Delhi,East of Kailash,Delhi,Heritage
-Sanjay Lake,Delhi,East Delhi,Mayur Vihar,Delhi,Water Body
-EOD Adventure Park,Delhi,East Delhi,Mayur Vihar,Delhi,Amusement
-Swaminarayan Akshardham Temple,Delhi,East Delhi,Pandav Nagar,New Delhi,Religious
-Waste to Wonder Park,Delhi,South East Delhi,Sarai Kale Khan,Delhi,Recreation
-Millennium Park,Delhi,South East Delhi,Sarai Kale Khan,Delhi,Garden
-Nehru Place Market,Delhi,South East Delhi,Nehru Place,New Delhi,Market
-Asola Bhatti Wildlife Sanctuary,Delhi,South Delhi,Asola,Delhi,Wildlife
-Tilpath Valley Biodiversity Park,Delhi,South Delhi,Sainik Farm,Delhi,Wildlife
-Mahipalpur Hunting Lodge,Delhi,New Delhi,Mahipalpur,Delhi,Heritage
-Malcha Mahal,Delhi,New Delhi,Chanakyapuri,Delhi,Heritage
-Gumti of Shaikh Ali,Delhi,South Delhi,Defence Colony,Delhi,Heritage
-Bijri Khan's Tomb,Delhi,South Delhi,RK Puram,Delhi,Heritage
-Haji Langa's Gumbad,Delhi,South Delhi,RK Puram,Delhi,Heritage
-Tomb of Shaikh Ziyauddin Rumi,Delhi,South Delhi,Kalu Sarai,Delhi,Heritage
-Tomb of Shaikh Usman Saiyah,Delhi,South Delhi,Khirki,Delhi,Heritage
-Tomb of Shaikh Salahuddin Darwesh,Delhi,South Delhi,Shaikh Sarai,Delhi,Heritage
-Majlis Khana Shaikh Sarai,Delhi,South Delhi,Shaikh Sarai,Delhi,Heritage
-Baradari Mosque Sadhna Enclave,Delhi,South Delhi,Sadhna Enclave,Delhi,Heritage
-Kharbuze Ka Gumbad,Delhi,South Delhi,Panchsheel Park,Delhi,Heritage
-Sarai of Basant,Delhi,South Delhi,Basant Range,Delhi,Heritage
-Tomb near Yusuf Sarai,Delhi,South Delhi,Gautam Nagar,Delhi,Heritage
-Tomb at Katwari Serai,Delhi,South Delhi,Katwari Serai,Delhi,Heritage
-Tomb at Munirka,Delhi,South Delhi,Munirka,Delhi,Heritage
-Wall Mosque RK Puram,Delhi,South Delhi,RK Puram,Delhi,Heritage
-Gateway of Mahaldar Khan Garden,Delhi,North Delhi,Rana Pratap Bagh,Delhi,Heritage
-Burjs of Mansur,Delhi,North West Delhi,Ashok Vihar,Delhi,Heritage
-Maqbara Paik,Delhi,North Delhi,GT Karnal Road,Delhi,Heritage
-Baoli Dwarka,Delhi,South West Delhi,Dwarka,Delhi,Heritage
-Badarpur Sarai Northern Gateway,Delhi,South East Delhi,Badarpur,Delhi,Heritage
-Badarpur Sarai Central Gateway,Delhi,South East Delhi,Badarpur,Delhi,Heritage
-Badarpur Sarai Southern Gateway,Delhi,South East Delhi,Badarpur,Delhi,Heritage
-Kos Minar Badarpur,Delhi,South East Delhi,Badarpur,Delhi,Heritage
-Kos Minar Mahigirm,Delhi,South East Delhi,Badarpur,Delhi,Heritage
-Kos Minar Kureni,Delhi,North West Delhi,Kureni,Delhi,Heritage
-Eastern Gateway Chirag Delhi,Delhi,South Delhi,Chirag Delhi,Delhi,Heritage
-Southern Gateway Chirag Delhi,Delhi,South Delhi,Chirag Delhi,Delhi,Heritage
-Northern Gateway Chirag Delhi,Delhi,South Delhi,Chirag Delhi,Delhi,Heritage
-Turkman Gate,Delhi,Central Delhi,Turkman Gate,Delhi,Heritage
-Imambara Qutub Road,Delhi,Central Delhi,Qutub Road,Delhi,Heritage
-Sayed Abid's Tomb,Delhi,New Delhi,Delhi Golf Club,Delhi,Heritage
-Sarai of Azimganj,Delhi,Central Delhi,National Zoological Park,Delhi,Heritage
-Tomb inside National Zoological Park,Delhi,Central Delhi,National Zoological Park,Delhi,Heritage
-Baradari Tomb Vasant Vihar,Delhi,South West Delhi,Vasant Vihar,Delhi,Heritage
-Mahal Mahipalpur,Delhi,South West Delhi,Mahipalpur,Delhi,Heritage
-Zail Bawana,Delhi,North West Delhi,Bawana,Delhi,Heritage
-Charkha Museum,Delhi,New Delhi,New Delhi,New Delhi,Museum
-Dargah Nizamuddin Aulia,Delhi,South East Delhi,Nizamuddin,New Delhi,Religious
-Darya Khan's Tomb,Delhi,New Delhi,New Delhi,New Delhi,Heritage
-India Africa Friendship Rose Garden,Delhi,New Delhi,New Delhi,New Delhi,Garden
-Indian War Memorial Museum,Delhi,New Delhi,New Delhi,New Delhi,Museum
-Indraprastha Park,Delhi,South East Delhi,Sarai Kale Khan,Delhi,Garden
-Mumtaz Mahal,Delhi,Central Delhi,Red Fort,Delhi,Heritage
-Ram Yantra,Delhi,New Delhi,Jantar Mantar,New Delhi,Heritage
-Shanti Stupa Delhi,Delhi,New Delhi,New Delhi,New Delhi,Religious
-Shri Laxmi Narayan Temple,Delhi,New Delhi,Mandir Marg,Delhi,Religious
+"place_name","state_ut","district","city_or_town","nearest_major_city","category","visibility","tourism_type","tourism_potential","circuit","description","experience_tags","source"
+"India Gate","Delhi","New Delhi","New Delhi","New Delhi","Heritage","Famous","Heritage & Culture","Medium","New Delhi Civic & Museum Circuit","A Delhi destination in the New Delhi area with heritage and cultural interest.","",""
+"National War Memorial","Delhi","New Delhi","New Delhi","New Delhi","Monument","Famous","Heritage & Culture","Medium","New Delhi Civic & Museum Circuit","A Delhi destination in the New Delhi area with heritage and cultural interest.","",""
+"Red Fort","Delhi","Central Delhi","Old Delhi","Delhi","Heritage","Famous","Heritage","Medium","Old Delhi & Mughal Core Circuit","A heritage site in Delhi's Central Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage",""
+"Jama Masjid Delhi","Delhi","Central Delhi","Chandni Chowk","Old Delhi","Religious","Famous","Heritage & Spiritual","Medium","Delhi Urban Heritage & Culture Circuit","A religious and cultural site in Delhi's Central Delhi area, combining local traditions with the city's historic urban fabric.","heritage",""
+"Chandni Chowk","Delhi","Central Delhi","Old Delhi","Old Delhi","Market","Famous","Urban Culture & Markets","Medium","Old Delhi & Mughal Core Circuit","A distinctive Delhi market or neighbourhood experience in the Central Delhi area, suited to exploring local commerce and urban culture.","local life, food & shopping",""
+"Khari Baoli","Delhi","Central Delhi","Old Delhi","Delhi","Market","Hidden","Urban Culture & Markets","High","Old Delhi & Mughal Core Circuit","A distinctive Delhi market or neighbourhood experience in the Central Delhi area, suited to exploring local commerce and urban culture.","heritage, local life, hidden heritage, food & shopping",""
+"Dariba Kalan","Delhi","Central Delhi","Chandni Chowk","Delhi","Market","Offbeat","Urban Culture & Markets","High","Old Delhi & Mughal Core Circuit","A distinctive Delhi market or neighbourhood experience in the Central Delhi area, suited to exploring local commerce and urban culture.","food & shopping",""
+"Gali Qasim Jan and Mirza Ghalib Haveli","Delhi","Central Delhi","Old Delhi","Delhi","Heritage","Offbeat","Heritage & Culture","High","Old Delhi & Mughal Core Circuit","A Delhi destination in the Central Delhi area with heritage and cultural interest.","",""
+"Fatehpuri Masjid","Delhi","Central Delhi","Chandni Chowk","Delhi","Heritage","Hidden","Heritage & Spiritual","High","Old Delhi & Mughal Core Circuit","A religious and cultural site in Delhi's Central Delhi area, combining local traditions with the city's historic urban fabric.","heritage, hidden heritage",""
+"Gauri Shankar Mandir","Delhi","Central Delhi","Chandni Chowk","Delhi","Religious","Lesser-known","Heritage & Spiritual","Medium","Delhi Urban Heritage & Culture Circuit","A religious and cultural site in Delhi's Central Delhi area, combining local traditions with the city's historic urban fabric.","spiritual",""
+"Central Baptist Church","Delhi","Central Delhi","Chandni Chowk","Delhi","Heritage","Lesser-known","Heritage & Spiritual","Medium","Delhi Urban Heritage & Culture Circuit","A religious and cultural site in Delhi's Central Delhi area, combining local traditions with the city's historic urban fabric.","spiritual",""
+"Gurudwara Sis Ganj Sahib","Delhi","Central Delhi","Chandni Chowk","Delhi","Religious","Famous","Heritage & Spiritual","Medium","Delhi Urban Heritage & Culture Circuit","A religious and cultural site in Delhi's Central Delhi area, combining local traditions with the city's historic urban fabric.","spiritual",""
+"Shri Digambar Jain Lal Mandir","Delhi","Central Delhi","Chandni Chowk","Delhi","Religious","Lesser-known","Heritage & Spiritual","Medium","Old Delhi & Mughal Core Circuit","A religious and cultural site in Delhi's Central Delhi area, combining local traditions with the city's historic urban fabric.","spiritual",""
+"Diwan-i-Am Red Fort","Delhi","Central Delhi","Old Delhi","Delhi","Heritage","Offbeat","Heritage","High","Old Delhi & Mughal Core Circuit","A heritage site in Delhi's Central Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage",""
+"Diwan-i-Khas Red Fort","Delhi","Central Delhi","Old Delhi","Delhi","Heritage","Offbeat","Heritage","High","Old Delhi & Mughal Core Circuit","A heritage site in Delhi's Central Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage",""
+"Moti Masjid Red Fort","Delhi","Central Delhi","Old Delhi","Delhi","Heritage","Hidden","Heritage & Spiritual","High","Old Delhi & Mughal Core Circuit","A religious and cultural site in Delhi's Central Delhi area, combining local traditions with the city's historic urban fabric.","heritage, hidden heritage",""
+"Naubat Khana Red Fort","Delhi","Central Delhi","Old Delhi","Delhi","Heritage","Offbeat","Heritage","High","Old Delhi & Mughal Core Circuit","A heritage site in Delhi's Central Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage",""
+"Hayat Bakhsh Bagh Red Fort","Delhi","Central Delhi","Old Delhi","Delhi","Garden","Lesser-known","Heritage","Medium","Old Delhi & Mughal Core Circuit","A heritage site in Delhi's Central Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage",""
+"Rang Mahal Red Fort","Delhi","Central Delhi","Old Delhi","Delhi","Heritage","Hidden","Heritage","High","Old Delhi & Mughal Core Circuit","A heritage site in Delhi's Central Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Salimgarh Fort","Delhi","Central Delhi","Old Delhi","Old Delhi","Fort","Offbeat","Heritage","High","Delhi Urban Heritage & Culture Circuit","A heritage site in Delhi's Central Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage",""
+"Firoz Shah Kotla","Delhi","Central Delhi","ITO","Delhi","Heritage","Offbeat","Heritage & Culture","High","Delhi Urban Heritage & Culture Circuit","A Delhi destination in the Central Delhi area with heritage and cultural interest.","",""
+"Ashokan Pillar Firoz Shah Kotla","Delhi","Central Delhi","ITO","Delhi","Heritage","Offbeat","Heritage","High","Delhi Urban Heritage & Culture Circuit","A heritage site in Delhi's Central Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage",""
+"Jami Masjid of Firozabad","Delhi","Central Delhi","ITO","Delhi","Heritage","Hidden","Heritage & Spiritual","High","Delhi Urban Heritage & Culture Circuit","A religious and cultural site in Delhi's Central Delhi area, combining local traditions with the city's historic urban fabric.","heritage, hidden heritage",""
+"National Gandhi Museum","Delhi","Central Delhi","Raj Ghat","New Delhi","Museum","Lesser-known","Culture & Museum","Medium","Old Delhi & Mughal Core Circuit","A cultural institution or museum in Delhi's Central Delhi area, suited to learning about the city's history, arts or public institutions.","culture",""
+"Raj Ghat","Delhi","Central Delhi","Raj Ghat","New Delhi","Monument","Famous","Heritage & Culture","Medium","Old Delhi & Mughal Core Circuit","A Delhi destination in the Central Delhi area with heritage and cultural interest.","",""
+"National Science Centre","Delhi","Central Delhi","Pragati Maidan","Delhi","Museum","Offbeat","Culture & Museum","High","Delhi Urban Heritage & Culture Circuit","A cultural institution or museum in Delhi's Central Delhi area, suited to learning about the city's history, arts or public institutions.","culture",""
+"National Zoological Park","Delhi","Central Delhi","Mathura Road","New Delhi","Wildlife","Famous","Nature & Urban Ecology","Medium","Delhi Urban Heritage & Culture Circuit","An urban green or ecological destination in Delhi's Central Delhi area, suited to a quieter nature-focused experience.","nature",""
+"National Children's Museum","Delhi","Central Delhi","Kotla Road","Delhi","Museum","Lesser-known","Culture & Museum","Medium","Delhi Urban Heritage & Culture Circuit","A cultural institution or museum in Delhi's Central Delhi area, suited to learning about the city's history, arts or public institutions.","culture",""
+"Shankar's International Dolls Museum","Delhi","Central Delhi","ITO","Delhi","Museum","Lesser-known","Culture & Museum","Medium","Delhi Urban Heritage & Culture Circuit","A cultural institution or museum in Delhi's Central Delhi area, suited to learning about the city's history, arts or public institutions.","culture",""
+"Town Hall Old Delhi","Delhi","Central Delhi","Chandni Chowk","Delhi","Heritage","Offbeat","Heritage & Culture","High","Old Delhi & Mughal Core Circuit","A Delhi destination in the Central Delhi area with heritage and cultural interest.","",""
+"Qudsia Bagh","Delhi","North Delhi","Civil Lines","Delhi","Garden","Lesser-known","Heritage & Culture","Medium","Delhi Urban Heritage & Culture Circuit","A Delhi destination in the North Delhi area with heritage and cultural interest.","",""
+"Baradari Qudsia Garden","Delhi","North Delhi","Civil Lines","Delhi","Heritage","Lesser-known","Nature & Urban Ecology","Medium","Delhi Urban Heritage & Culture Circuit","An urban green or ecological destination in Delhi's North Delhi area, suited to a quieter nature-focused experience.","nature",""
+"Dara Shikoh Library Building","Delhi","North Delhi","Kashmere Gate","Delhi","Heritage","Offbeat","Heritage & Culture","High","North Delhi Ridge & Heritage Circuit","A Delhi destination in the North Delhi area with heritage and cultural interest.","",""
+"St. James' Church","Delhi","North Delhi","Kashmere Gate","Delhi","Heritage","Lesser-known","Heritage & Spiritual","Medium","Delhi Urban Heritage & Culture Circuit","A religious and cultural site in Delhi's North Delhi area, combining local traditions with the city's historic urban fabric.","spiritual",""
+"Coronation Memorial","Delhi","North Delhi","Burari","Delhi","Monument","Lesser-known","Heritage & Culture","Medium","North Delhi Ridge & Heritage Circuit","A Delhi destination in the North Delhi area with heritage and cultural interest.","",""
+"Roshanara Garden","Delhi","North Delhi","Shakti Nagar","Delhi","Garden","Lesser-known","Nature & Urban Ecology","Medium","North Delhi Ridge & Heritage Circuit","An urban green or ecological destination in Delhi's North Delhi area, suited to a quieter nature-focused experience.","nature",""
+"Roshanara Begum Tomb","Delhi","North Delhi","Shakti Nagar","Delhi","Heritage","Hidden","Heritage","High","North Delhi Ridge & Heritage Circuit","A heritage site in Delhi's North Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Wazirabad Mosque","Delhi","North Delhi","Wazirabad","Delhi","Heritage","Hidden","Heritage & Spiritual","High","North Delhi Ridge & Heritage Circuit","A religious and cultural site in Delhi's North Delhi area, combining local traditions with the city's historic urban fabric.","heritage, hidden heritage",""
+"Wazirabad Tomb and Firoz Shah's Bridge","Delhi","North Delhi","Wazirabad","Delhi","Heritage","Hidden","Nature & Urban Ecology","High","North Delhi Ridge & Heritage Circuit","An urban green or ecological destination in Delhi's North Delhi area, suited to a quieter nature-focused experience.","heritage, nature, hidden heritage",""
+"Yamuna Biodiversity Park","Delhi","North Delhi","Wazirabad","Delhi","Wildlife","Lesser-known","Nature & Urban Ecology","Medium","Delhi Urban Heritage & Culture Circuit","An urban biodiversity landscape designed around wetland, grassland and woodland habitats along the Yamuna floodplain.","nature",""
+"Kamla Nehru Ridge","Delhi","North Delhi","Civil Lines","Delhi","Wildlife","Lesser-known","Nature & Urban Ecology","Medium","North Delhi Ridge & Heritage Circuit","An urban green or ecological destination in Delhi's North Delhi area, suited to a quieter nature-focused experience.","nature",""
+"Flagstaff Tower","Delhi","North Delhi","Civil Lines","Delhi","Heritage","Offbeat","Heritage & Culture","High","North Delhi Ridge & Heritage Circuit","A Delhi destination in the North Delhi area with heritage and cultural interest.","",""
+"Mutiny Memorial","Delhi","North Delhi","Civil Lines","Delhi","Monument","Lesser-known","Heritage & Culture","Medium","North Delhi Ridge & Heritage Circuit","A Delhi destination in the North Delhi area with heritage and cultural interest.","",""
+"Northern Ridge Guard House","Delhi","North Delhi","Civil Lines","Delhi","Heritage","Lesser-known","Nature & Urban Ecology","Medium","North Delhi Ridge & Heritage Circuit","An urban green or ecological destination in Delhi's North Delhi area, suited to a quieter nature-focused experience.","nature",""
+"Southern Ridge Guard House","Delhi","North Delhi","Civil Lines","Delhi","Heritage","Lesser-known","Nature & Urban Ecology","Medium","North Delhi Ridge & Heritage Circuit","An urban green or ecological destination in Delhi's North Delhi area, suited to a quieter nature-focused experience.","nature",""
+"Gurudwara Majnu Ka Tilla","Delhi","North Delhi","Civil Lines","Delhi","Religious","Lesser-known","Heritage & Spiritual","Medium","North Delhi Ridge & Heritage Circuit","A religious and cultural site in Delhi's North Delhi area, combining local traditions with the city's historic urban fabric.","spiritual",""
+"Adventure Island Rohini","Delhi","North West Delhi","Rohini","Delhi","Amusement","Offbeat","Recreation & Adventure","High","Delhi Urban Heritage & Culture Circuit","A recreational destination in Delhi's North West Delhi area, suited to leisure, family activities or active experiences.","",""
+"Metro Walk Rohini","Delhi","North West Delhi","Rohini","Delhi","Recreation","Offbeat","Recreation & Adventure","High","Delhi Urban Heritage & Culture Circuit","A recreational destination in Delhi's North West Delhi area, suited to leisure, family activities or active experiences.","",""
+"Bawana Zail","Delhi","North West Delhi","Bawana","Delhi","Heritage","Hidden","Heritage & Culture","High","North-West Delhi Heritage Circuit","A Delhi destination in the North West Delhi area with heritage and cultural interest.","hidden heritage",""
+"Shalimar Garden and Sheesh Mahal","Delhi","North West Delhi","Shalimar Bagh","Delhi","Heritage","Hidden","Nature & Urban Ecology","High","North-West Delhi Heritage Circuit","An urban green or ecological destination in Delhi's North West Delhi area, suited to a quieter nature-focused experience.","nature, hidden heritage",""
+"Guru Tegh Bahadur Memorial","Delhi","North West Delhi","Singhu","Delhi","Monument","Lesser-known","Heritage & Culture","Medium","North-West Delhi Heritage Circuit","A Delhi destination in the North West Delhi area with heritage and cultural interest.","",""
+"Dilli Haat Pitampura","Delhi","North West Delhi","Pitampura","Delhi","Market","Offbeat","Heritage & Culture","High","North-West Delhi Heritage Circuit","A Delhi destination in the North West Delhi area with heritage and cultural interest.","food & shopping",""
+"Hashtsal Minar","Delhi","West Delhi","Hashtsal","Delhi","Heritage","Offbeat","Heritage","High","North-West Delhi Heritage Circuit","A heritage site in Delhi's West Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage",""
+"Rajouri Garden","Delhi","West Delhi","Rajouri Garden","Delhi","Market","Lesser-known","Nature & Urban Ecology","Medium","Delhi Urban Heritage & Culture Circuit","An urban green or ecological destination in Delhi's West Delhi area, suited to a quieter nature-focused experience.","nature, food & shopping",""
+"Tagore Garden","Delhi","West Delhi","Tagore Garden","Delhi","Nature","Lesser-known","Nature & Urban Ecology","Medium","Delhi Urban Heritage & Culture Circuit","An urban green or ecological destination in Delhi's West Delhi area, suited to a quieter nature-focused experience.","nature",""
+"Bharat Darshan Park","Delhi","West Delhi","Punjabi Bagh","Delhi","Recreation","Lesser-known","Nature & Urban Ecology","Medium","Delhi Urban Heritage & Culture Circuit","An urban green or ecological destination in Delhi's West Delhi area, suited to a quieter nature-focused experience.","nature",""
+"India Habitat Centre","Delhi","New Delhi","Lodhi Road","Delhi","Cultural","Famous","Culture & Museum","Medium","Delhi Urban Heritage & Culture Circuit","A cultural institution or museum in Delhi's New Delhi area, suited to learning about the city's history, arts or public institutions.","culture",""
+"Connaught Place","Delhi","New Delhi","Connaught Place","New Delhi","Market","Famous","Urban Culture & Markets","Medium","Delhi Urban Heritage & Culture Circuit","A distinctive Delhi market or neighbourhood experience in the New Delhi area, suited to exploring local commerce and urban culture.","food & shopping",""
+"Jantar Mantar","Delhi","New Delhi","Parliament Street","New Delhi","Heritage","Famous","Heritage & Culture","Medium","New Delhi Civic & Museum Circuit","A Delhi destination in the New Delhi area with heritage and cultural interest.","",""
+"Agrasen Ki Baoli","Delhi","New Delhi","Hailey Road","New Delhi","Heritage","Lesser-known","Heritage","Medium","New Delhi Civic & Museum Circuit","A prominent historic stepwell near Connaught Place, known for its dramatic descending arcade and urban heritage setting.","heritage, local life",""
+"Rashtrapati Bhavan","Delhi","New Delhi","Raisina Hill","New Delhi","Heritage","Famous","Heritage & Culture","Medium","New Delhi Civic & Museum Circuit","A Delhi destination in the New Delhi area with heritage and cultural interest.","",""
+"Samvidhan Sadan","Delhi","New Delhi","Sansad Marg","New Delhi","Heritage","Offbeat","Heritage & Culture","High","New Delhi Civic & Museum Circuit","A Delhi destination in the New Delhi area with heritage and cultural interest.","",""
+"Amrit Udyan","Delhi","New Delhi","President's Estate","New Delhi","Garden","Offbeat","Heritage & Culture","High","New Delhi Civic & Museum Circuit","A Delhi destination in the New Delhi area with heritage and cultural interest.","",""
+"Cathedral Church of the Redemption","Delhi","New Delhi","Church Road","New Delhi","Heritage","Lesser-known","Heritage & Spiritual","Medium","New Delhi Civic & Museum Circuit","A religious and cultural site in Delhi's New Delhi area, combining local traditions with the city's historic urban fabric.","spiritual",""
+"Gandhi Smriti","Delhi","New Delhi","Tees January Marg","New Delhi","Museum","Famous","Heritage & Culture","Medium","New Delhi Civic & Museum Circuit","A Delhi destination in the New Delhi area with heritage and cultural interest.","",""
+"Indira Gandhi Memorial Museum","Delhi","New Delhi","Safdarjung Road","New Delhi","Museum","Lesser-known","Culture & Museum","Medium","New Delhi Civic & Museum Circuit","A cultural institution or museum in Delhi's New Delhi area, suited to learning about the city's history, arts or public institutions.","culture",""
+"Pradhanmantri Sangrahalaya","Delhi","New Delhi","Teen Murti","New Delhi","Museum","Offbeat","Heritage & Culture","High","New Delhi Civic & Museum Circuit","A Delhi destination in the New Delhi area with heritage and cultural interest.","",""
+"Nehru Planetarium","Delhi","New Delhi","Teen Murti","New Delhi","Museum","Offbeat","Culture & Museum","High","New Delhi Civic & Museum Circuit","A cultural institution or museum in Delhi's New Delhi area, suited to learning about the city's history, arts or public institutions.","",""
+"National Museum","Delhi","New Delhi","Janpath","New Delhi","Museum","Famous","Culture & Museum","Medium","New Delhi Civic & Museum Circuit","A cultural institution or museum in Delhi's New Delhi area, suited to learning about the city's history, arts or public institutions.","culture",""
+"National Gallery of Modern Art","Delhi","New Delhi","India Gate","Delhi","Museum","Offbeat","Culture & Museum","High","New Delhi Civic & Museum Circuit","A cultural institution or museum in Delhi's New Delhi area, suited to learning about the city's history, arts or public institutions.","culture",""
+"National Crafts Museum","Delhi","New Delhi","Pragati Maidan","Delhi","Museum","Lesser-known","Culture & Museum","Medium","New Delhi Civic & Museum Circuit","A cultural institution or museum in Delhi's New Delhi area, suited to learning about the city's history, arts or public institutions.","culture",""
+"National Rail Museum","Delhi","New Delhi","Chanakyapuri","Delhi","Museum","Lesser-known","Culture & Museum","Medium","New Delhi Civic & Museum Circuit","A cultural institution or museum in Delhi's New Delhi area, suited to learning about the city's history, arts or public institutions.","culture",""
+"National Philatelic Museum","Delhi","New Delhi","Sansad Marg","Delhi","Museum","Lesser-known","Culture & Museum","Medium","New Delhi Civic & Museum Circuit","A cultural institution or museum in Delhi's New Delhi area, suited to learning about the city's history, arts or public institutions.","culture",""
+"Delhi Metro Museum","Delhi","New Delhi","Patel Chowk","Delhi","Museum","Lesser-known","Culture & Museum","Medium","New Delhi Civic & Museum Circuit","A cultural institution or museum in Delhi's New Delhi area, suited to learning about the city's history, arts or public institutions.","culture",""
+"Supreme Court Museum","Delhi","New Delhi","Tilak Marg","Delhi","Museum","Lesser-known","Culture & Museum","Medium","New Delhi Civic & Museum Circuit","A cultural institution or museum in Delhi's New Delhi area, suited to learning about the city's history, arts or public institutions.","culture",""
+"Air Force Museum","Delhi","South West Delhi","Palam","Delhi","Museum","Lesser-known","Culture & Museum","Medium","New Delhi Civic & Museum Circuit","A cultural institution or museum in Delhi's South West Delhi area, suited to learning about the city's history, arts or public institutions.","culture",""
+"Sulabh International Museum of Toilets","Delhi","South West Delhi","Mahavir Enclave","Delhi","Museum","Lesser-known","Culture & Museum","Medium","New Delhi Civic & Museum Circuit","A cultural institution or museum in Delhi's South West Delhi area, suited to learning about the city's history, arts or public institutions.","culture",""
+"Gurudwara Bangla Sahib","Delhi","New Delhi","Connaught Place","Delhi","Religious","Famous","Heritage & Spiritual","Medium","New Delhi Civic & Museum Circuit","A religious and cultural site in Delhi's New Delhi area, combining local traditions with the city's historic urban fabric.","spiritual",""
+"Gurudwara Rakab Ganj Sahib","Delhi","New Delhi","New Delhi","Delhi","Religious","Lesser-known","Heritage & Spiritual","Medium","New Delhi Civic & Museum Circuit","A religious and cultural site in Delhi's New Delhi area, combining local traditions with the city's historic urban fabric.","spiritual",""
+"Pracheen Hanuman Mandir","Delhi","New Delhi","Connaught Place","Delhi","Religious","Lesser-known","Heritage & Spiritual","Medium","New Delhi Civic & Museum Circuit","A religious and cultural site in Delhi's New Delhi area, combining local traditions with the city's historic urban fabric.","spiritual",""
+"Birla Mandir","Delhi","New Delhi","Mandir Marg","Delhi","Religious","Famous","Heritage & Spiritual","Medium","New Delhi Civic & Museum Circuit","A religious and cultural site in Delhi's New Delhi area, combining local traditions with the city's historic urban fabric.","spiritual",""
+"Delhi Golf Club","Delhi","New Delhi","Lodhi Road","Delhi","Sports","Offbeat","Recreation & Adventure","High","Delhi Urban Heritage & Culture Circuit","A recreational destination in Delhi's New Delhi area, suited to leisure, family activities or active experiences.","",""
+"Buddha Jayanti Park","Delhi","New Delhi","Ridge Road","Delhi","Garden","Lesser-known","Nature & Urban Ecology","Medium","New Delhi Civic & Museum Circuit","An urban green or ecological destination in Delhi's New Delhi area, suited to a quieter nature-focused experience.","nature",""
+"Nehru Park","Delhi","New Delhi","Chanakyapuri","New Delhi","Nature","Lesser-known","Nature & Urban Ecology","Medium","New Delhi Civic & Museum Circuit","An urban green or ecological destination in Delhi's New Delhi area, suited to a quieter nature-focused experience.","nature",""
+"Aravalli Biodiversity Park","Delhi","South West Delhi","Vasant Kunj","Delhi","Wildlife","Lesser-known","Nature & Urban Ecology","Medium","Delhi Urban Heritage & Culture Circuit","An urban green or ecological destination in Delhi's South West Delhi area, suited to a quieter nature-focused experience.","nature",""
+"Neela Hauz Biodiversity Park","Delhi","South West Delhi","Vasant Kunj","Delhi","Wildlife","Lesser-known","Nature & Urban Ecology","Medium","Delhi Urban Heritage & Culture Circuit","An urban green or ecological destination in Delhi's South West Delhi area, suited to a quieter nature-focused experience.","nature",""
+"Sanjay Van","Delhi","South West Delhi","Mehrauli","Delhi","Wildlife","Lesser-known","Nature & Urban Ecology","Medium","Delhi Urban Heritage & Culture Circuit","An urban green or ecological destination in Delhi's South West Delhi area, suited to a quieter nature-focused experience.","",""
+"Vasant Vihar Park","Delhi","South West Delhi","Vasant Vihar","New Delhi","Nature","Lesser-known","Nature & Urban Ecology","Medium","Delhi Urban Heritage & Culture Circuit","An urban green or ecological destination in Delhi's South West Delhi area, suited to a quieter nature-focused experience.","nature",""
+"Indian Mountaineering Foundation","Delhi","South West Delhi","Moti Bagh","Delhi","Sports","Offbeat","Heritage & Culture","High","Delhi Urban Heritage & Culture Circuit","A Delhi destination in the South West Delhi area with heritage and cultural interest.","",""
+"Mehram Nagar Katra","Delhi","South West Delhi","Delhi Cantonment","Delhi","Heritage","Offbeat","Heritage & Culture","High","Delhi Urban Heritage & Culture Circuit","A Delhi destination in the South West Delhi area with heritage and cultural interest.","",""
+"Katra and Garden of Mehram Nagar","Delhi","South West Delhi","Delhi Cantonment","Delhi","Heritage","Lesser-known","Nature & Urban Ecology","Medium","Delhi Urban Heritage & Culture Circuit","An urban green or ecological destination in Delhi's South West Delhi area, suited to a quieter nature-focused experience.","nature",""
+"Bara Lao Ka Gumbad","Delhi","South West Delhi","Vasant Vihar","Delhi","Heritage","Hidden","Heritage","High","Delhi Urban Heritage & Culture Circuit","A heritage site in Delhi's South West Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Adham Khan's Tomb","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Hidden","Heritage","High","Sultanate Delhi & Southern Ridge Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Qutub Minar","Delhi","South Delhi","Mehrauli","New Delhi","Monument","Famous","Heritage","Medium","Mehrauli & South Delhi Heritage Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage",""
+"Quwwat-ul-Islam Mosque","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Hidden","Heritage & Spiritual","High","Delhi Urban Heritage & Culture Circuit","A religious and cultural site in Delhi's South Delhi area, combining local traditions with the city's historic urban fabric.","heritage, hidden heritage",""
+"Iron Pillar","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Offbeat","Heritage","High","Delhi Urban Heritage & Culture Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage",""
+"Alai Darwaza","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Offbeat","Heritage & Culture","High","Delhi Urban Heritage & Culture Circuit","A Delhi destination in the South Delhi area with heritage and cultural interest.","",""
+"Alai Minar","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Offbeat","Heritage","High","Delhi Urban Heritage & Culture Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage",""
+"Tomb of Iltutmish","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Hidden","Heritage","High","Delhi Urban Heritage & Culture Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Tomb of Alauddin Khalji","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Hidden","Heritage","High","Delhi Urban Heritage & Culture Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Mehrauli Archaeological Park","Delhi","South Delhi","Mehrauli","New Delhi","Heritage","Lesser-known","Nature & Urban Ecology","Medium","Mehrauli & South Delhi Heritage Circuit","A large heritage landscape in Mehrauli bringing together medieval tombs, mosques, baolis, gardens and ruined structures in one walkable archaeological zone.","nature",""
+"Jamali Kamali Mosque and Tomb","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Lesser-known","Heritage & Spiritual","Medium","Mehrauli & South Delhi Heritage Circuit","A compact 16th-century heritage site in Mehrauli known for its mosque, ornate tomb chamber and atmospheric ruins.","heritage",""
+"Rajon Ki Baoli","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Lesser-known","Heritage","Medium","Mehrauli & South Delhi Heritage Circuit","A historic stepwell in Mehrauli with multiple levels, arched galleries and a distinctive example of Delhi's water architecture.","heritage, local life",""
+"Balban's Tomb","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Lesser-known","Heritage","Medium","Mehrauli & South Delhi Heritage Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage",""
+"Lal Gumbad Mehrauli","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Hidden","Heritage","High","Mehrauli & South Delhi Heritage Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Mughal Jharna","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Offbeat","Heritage","High","Mehrauli & South Delhi Heritage Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage",""
+"Jharna Mehrauli","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Offbeat","Heritage","High","Mehrauli & South Delhi Heritage Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage",""
+"Anangtal Baoli","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Hidden","Heritage","High","Mehrauli & South Delhi Heritage Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, local life, hidden heritage",""
+"Hauz-i-Shamsi","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Offbeat","Nature & Urban Ecology","High","Mehrauli & South Delhi Heritage Circuit","An urban green or ecological destination in Delhi's South Delhi area, suited to a quieter nature-focused experience.","nature",""
+"Jahaz Mahal","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Hidden","Heritage & Culture","High","Mehrauli & South Delhi Heritage Circuit","A Delhi destination in the South Delhi area with heritage and cultural interest.","hidden heritage",""
+"Metcalfe's Boathouse","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Offbeat","Heritage & Culture","High","Mehrauli & South Delhi Heritage Circuit","A Delhi destination in the South Delhi area with heritage and cultural interest.","",""
+"Metcalfe's Guest House","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Offbeat","Heritage & Culture","High","Mehrauli & South Delhi Heritage Circuit","A Delhi destination in the South Delhi area with heritage and cultural interest.","",""
+"Tomb of Muhammad Quli Khan","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Hidden","Heritage","High","Mehrauli & South Delhi Heritage Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Horse Stable Mehrauli Archaeological Park","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Lesser-known","Nature & Urban Ecology","Medium","Mehrauli & South Delhi Heritage Circuit","An urban green or ecological destination in Delhi's South Delhi area, suited to a quieter nature-focused experience.","heritage, nature",""
+"Sohail Wali Mosque","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Hidden","Heritage & Spiritual","High","Mehrauli & South Delhi Heritage Circuit","A religious and cultural site in Delhi's South Delhi area, combining local traditions with the city's historic urban fabric.","heritage, hidden heritage",""
+"Baghichi Ki Masjid","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Hidden","Heritage & Spiritual","High","Mehrauli & South Delhi Heritage Circuit","A religious and cultural site in Delhi's South Delhi area, combining local traditions with the city's historic urban fabric.","heritage, hidden heritage",""
+"Chaumachi Khan's Tomb","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Hidden","Heritage","High","Delhi Urban Heritage & Culture Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Unknown Tomb Jharokha Mehrauli","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Hidden","Heritage","High","Mehrauli & South Delhi Heritage Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Unknown Tomb near Rajon Ki Baoli","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Hidden","Heritage","High","Mehrauli & South Delhi Heritage Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, local life, hidden heritage",""
+"Unknown Tomb Behind Mehrauli Bus Terminal","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Hidden","Heritage","High","Mehrauli & South Delhi Heritage Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Unknown Tomb South of Lado Sarai","Delhi","South Delhi","Lado Sarai","Delhi","Heritage","Hidden","Heritage","High","Delhi Urban Heritage & Culture Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Mosque North East of Lado Sarai","Delhi","South Delhi","Lado Sarai","Delhi","Heritage","Hidden","Heritage & Spiritual","High","Delhi Urban Heritage & Culture Circuit","A religious and cultural site in Delhi's South Delhi area, combining local traditions with the city's historic urban fabric.","heritage, hidden heritage",""
+"Adilabad Fort","Delhi","South Delhi","Tughlaqabad","Delhi","Fort","Offbeat","Heritage","High","Delhi Urban Heritage & Culture Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage",""
+"Tughlaqabad Fort","Delhi","South Delhi","Tughlaqabad","New Delhi","Fort","Famous","Heritage","Medium","Sultanate Delhi & Southern Ridge Circuit","Massive 14th-century fortification with long defensive walls, ruined gateways and elevated views across southern Delhi.","heritage",""
+"Mausoleum of Ghiyasuddin Tughlaq","Delhi","South Delhi","Tughlaqabad","Delhi","Heritage","Offbeat","Heritage & Culture","High","Delhi Urban Heritage & Culture Circuit","A Delhi destination in the South Delhi area with heritage and cultural interest.","",""
+"Satpula Dam","Delhi","South Delhi","Khirki","Delhi","Heritage","Offbeat","Heritage & Culture","High","Sultanate Delhi & Southern Ridge Circuit","A Delhi destination in the South Delhi area with heritage and cultural interest.","",""
+"Khirki Mosque","Delhi","South Delhi","Khirki","Delhi","Heritage","Hidden","Heritage & Spiritual","High","Sultanate Delhi & Southern Ridge Circuit","A religious and cultural site in Delhi's South Delhi area, combining local traditions with the city's historic urban fabric.","heritage, hidden heritage",""
+"Moth Ki Masjid","Delhi","South Delhi","Uday Park","Delhi","Heritage","Hidden","Heritage & Spiritual","High","Sultanate Delhi & Southern Ridge Circuit","A religious and cultural site in Delhi's South Delhi area, combining local traditions with the city's historic urban fabric.","heritage, hidden heritage",""
+"Begumpur Mosque","Delhi","South Delhi","Begumpur","New Delhi","Heritage","Hidden","Heritage & Spiritual","High","Sultanate Delhi & Southern Ridge Circuit","A religious and cultural site in Delhi's South Delhi area, combining local traditions with the city's historic urban fabric.","heritage, hidden heritage",""
+"Bijay Mandal","Delhi","South Delhi","Begumpur","Delhi","Heritage","Offbeat","Heritage & Culture","High","Sultanate Delhi & Southern Ridge Circuit","A Delhi destination in the South Delhi area with heritage and cultural interest.","",""
+"Chor Minar","Delhi","South Delhi","Hauz Khas","Delhi","Heritage","Offbeat","Heritage","High","Sultanate Delhi & Southern Ridge Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage",""
+"Hauz Khas Fort and Lake","Delhi","South Delhi","Hauz Khas","New Delhi","Heritage","Lesser-known","Nature & Urban Ecology","Medium","Sultanate Delhi & Southern Ridge Circuit","A medieval reservoir-and-madrasa complex with ruins overlooking the historic Hauz Khas lake.","heritage, nature",""
+"Tomb of Firoz Shah Tughlaq","Delhi","South Delhi","Hauz Khas","Delhi","Heritage","Hidden","Heritage","High","Delhi Urban Heritage & Culture Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Firoz Shah Tughlaq Madrasa","Delhi","South Delhi","Hauz Khas","Delhi","Heritage","Offbeat","Heritage","High","Delhi Urban Heritage & Culture Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage",""
+"Munda Gumbad","Delhi","South Delhi","Hauz Khas","Delhi","Heritage","Hidden","Heritage","High","Sultanate Delhi & Southern Ridge Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Nili Mosque","Delhi","South Delhi","Hauz Khas","Delhi","Heritage","Hidden","Heritage & Spiritual","High","Sultanate Delhi & Southern Ridge Circuit","A religious and cultural site in Delhi's South Delhi area, combining local traditions with the city's historic urban fabric.","heritage, hidden heritage",""
+"Kali Gumti","Delhi","South Delhi","Hauz Khas","Delhi","Heritage","Hidden","Heritage & Culture","High","Sultanate Delhi & Southern Ridge Circuit","A Delhi destination in the South Delhi area with heritage and cultural interest.","hidden heritage",""
+"Idgah of Kharehra","Delhi","South Delhi","Hauz Khas","Delhi","Heritage","Offbeat","Heritage & Culture","High","Delhi Urban Heritage & Culture Circuit","A Delhi destination in the South Delhi area with heritage and cultural interest.","",""
+"Dadi Poti Tombs","Delhi","South Delhi","Hauz Khas","Delhi","Heritage","Hidden","Heritage","High","Sultanate Delhi & Southern Ridge Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Green Park and Deer Park","Delhi","South Delhi","Hauz Khas","New Delhi","Nature","Lesser-known","Nature & Urban Ecology","Medium","Delhi Urban Heritage & Culture Circuit","An urban green or ecological destination in Delhi's South Delhi area, suited to a quieter nature-focused experience.","nature",""
+"Kotla Mubarakpur Tomb Complex","Delhi","South Delhi","Kotla Mubarakpur","Delhi","Heritage","Hidden","Heritage","High","Sultanate Delhi & Southern Ridge Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Bade Khan Tomb","Delhi","South Delhi","Kotla Mubarakpur","Delhi","Heritage","Hidden","Heritage","High","Delhi Urban Heritage & Culture Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Chhote Khan Tomb","Delhi","South Delhi","Kotla Mubarakpur","Delhi","Heritage","Hidden","Heritage","High","Delhi Urban Heritage & Culture Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Kala Gumbad Kotla Mubarakpur","Delhi","South Delhi","Kotla Mubarakpur","Delhi","Heritage","Hidden","Heritage","High","Sultanate Delhi & Southern Ridge Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Inchla Wali Gumti","Delhi","South Delhi","Kotla Mubarakpur","Delhi","Heritage","Hidden","Heritage & Culture","High","Delhi Urban Heritage & Culture Circuit","A Delhi destination in the South Delhi area with heritage and cultural interest.","hidden heritage",""
+"Gandhak Ki Baoli","Delhi","South Delhi","Mehrauli","Delhi","Heritage","Hidden","Heritage","High","Mehrauli & South Delhi Heritage Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, local life, hidden heritage",""
+"Qila Rai Pithora","Delhi","South Delhi","Malviya Nagar","Delhi","Heritage","Offbeat","Heritage & Culture","High","Sultanate Delhi & Southern Ridge Circuit","Remains associated with the early medieval fortified settlement of Delhi, forming part of the city's layered pre-Sultanate and Sultanate history.","",""
+"Shahpur Jat","Delhi","South Delhi","Shahpur Jat","Delhi","Culture","Lesser-known","Urban Culture & Markets","Medium","Delhi Urban Heritage & Culture Circuit","A distinctive Delhi market or neighbourhood experience in the South Delhi area, suited to exploring local commerce and urban culture.","",""
+"Jahanpanah City Forest","Delhi","South Delhi","Chirag Delhi","Delhi","Nature","Lesser-known","Nature & Urban Ecology","Medium","Delhi Urban Heritage & Culture Circuit","A large green tract around remnants of the medieval Jahanpanah area, offering a quieter nature-and-heritage experience within the city.","nature",""
+"Tomb of Bahlol Lodi","Delhi","South Delhi","Chirag Delhi","Delhi","Heritage","Hidden","Heritage","High","Sultanate Delhi & Southern Ridge Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Lal Gumbad Chirag Delhi","Delhi","South Delhi","Chirag Delhi","Delhi","Heritage","Hidden","Heritage","High","Sultanate Delhi & Southern Ridge Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Chirag Delhi Historic Gateways","Delhi","South Delhi","Chirag Delhi","Delhi","Heritage","Hidden","Heritage","High","Sultanate Delhi & Southern Ridge Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Dargah Hazrat Qutbuddin Bakhtiyar Kaki","Delhi","South Delhi","Mehrauli","Delhi","Religious","Lesser-known","Heritage & Spiritual","Medium","Delhi Urban Heritage & Culture Circuit","A religious and cultural site in Delhi's South Delhi area, combining local traditions with the city's historic urban fabric.","spiritual",""
+"Shrine of Hazrat Nasiruddin Mahmud","Delhi","South Delhi","Chirag Delhi","Delhi","Religious","Offbeat","Heritage & Culture","High","Delhi Urban Heritage & Culture Circuit","A Delhi destination in the South Delhi area with heritage and cultural interest.","",""
+"Shri Adya Katyayani Shaktipeeth Mandir","Delhi","South Delhi","Chhatarpur","New Delhi","Religious","Lesser-known","Heritage & Spiritual","Medium","Delhi Urban Heritage & Culture Circuit","A religious and cultural site in Delhi's South Delhi area, combining local traditions with the city's historic urban fabric.","spiritual",""
+"Garden of Five Senses","Delhi","South Delhi","Said-ul-Azaib","New Delhi","Garden","Lesser-known","Nature & Urban Ecology","Medium","Delhi Urban Heritage & Culture Circuit","An urban green or ecological destination in Delhi's South Delhi area, suited to a quieter nature-focused experience.","nature",""
+"Tibet House Museum","Delhi","South Delhi","Lodhi Road","Delhi","Museum","Lesser-known","Culture & Museum","Medium","Delhi Urban Heritage & Culture Circuit","A cultural institution or museum in Delhi's South Delhi area, suited to learning about the city's history, arts or public institutions.","culture",""
+"Siri Fort Citadel","Delhi","South Delhi","Siri Fort","Delhi","Heritage","Lesser-known","Heritage","Medium","Sultanate Delhi & Southern Ridge Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage",""
+"Sikandar Lodi Tomb","Delhi","New Delhi","Lodhi Garden","Delhi","Monument","Hidden","Heritage","High","Lodhi Garden & Central-South Heritage Circuit","A heritage site in Delhi's New Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Bara Gumbad","Delhi","New Delhi","Lodhi Garden","Delhi","Monument","Hidden","Heritage","High","Lodhi Garden & Central-South Heritage Circuit","A heritage site in Delhi's New Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Mohammad Shah Tomb","Delhi","New Delhi","Lodhi Garden","Delhi","Monument","Hidden","Heritage","High","Lodhi Garden & Central-South Heritage Circuit","A heritage site in Delhi's New Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Shah Tomb Lodhi Garden","Delhi","New Delhi","Lodhi Garden","Delhi","Heritage","Hidden","Nature & Urban Ecology","High","Lodhi Garden & Central-South Heritage Circuit","An urban green or ecological destination in Delhi's New Delhi area, suited to a quieter nature-focused experience.","heritage, nature, hidden heritage",""
+"Gol Gumbad","Delhi","New Delhi","Lodhi Road","Delhi","Heritage","Hidden","Heritage","High","Lodhi Garden & Central-South Heritage Circuit","A heritage site in Delhi's New Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Phutta Gumbad","Delhi","New Delhi","J.N. Stadium","Delhi","Heritage","Hidden","Heritage","High","Lodhi Garden & Central-South Heritage Circuit","A heritage site in Delhi's New Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Turret in Lodhi Garden","Delhi","New Delhi","Lodhi Garden","Delhi","Heritage","Hidden","Nature & Urban Ecology","High","Lodhi Garden & Central-South Heritage Circuit","An urban green or ecological destination in Delhi's New Delhi area, suited to a quieter nature-focused experience.","nature, hidden heritage",""
+"Nameless Mosque Lodhi Garden","Delhi","New Delhi","Lodhi Garden","Delhi","Heritage","Hidden","Nature & Urban Ecology","High","Lodhi Garden & Central-South Heritage Circuit","An urban green or ecological destination in Delhi's New Delhi area, suited to a quieter nature-focused experience.","heritage, nature, hidden heritage",""
+"Lodhi Garden Baoli and Garden Walls","Delhi","New Delhi","Lodhi Garden","Delhi","Heritage","Lesser-known","Nature & Urban Ecology","Medium","Lodhi Garden & Central-South Heritage Circuit","An urban green or ecological destination in Delhi's New Delhi area, suited to a quieter nature-focused experience.","heritage, nature, local life",""
+"Sunder Nursery","Delhi","South East Delhi","Nizamuddin","New Delhi","Nature","Famous","Nature & Urban Ecology","Medium","Nizamuddin & South-East Delhi Circuit","A restored historic garden landscape beside Humayun's Tomb, combining Mughal-era monuments, landscaped gardens and urban biodiversity.","nature",""
+"Humayun's Tomb","Delhi","South East Delhi","Nizamuddin East","New Delhi","Monument","Famous","Heritage","Medium","Nizamuddin & South-East Delhi Circuit","A heritage site in Delhi's South East Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage",""
+"Isa Khan Niyazi Tomb","Delhi","South East Delhi","Nizamuddin","Delhi","Heritage","Hidden","Heritage","High","Nizamuddin & South-East Delhi Circuit","A heritage site in Delhi's South East Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Chausath Khamba","Delhi","South East Delhi","Nizamuddin Basti","Delhi","Heritage","Lesser-known","Heritage & Culture","Medium","Nizamuddin & South-East Delhi Circuit","A Delhi destination in the South East Delhi area with heritage and cultural interest.","",""
+"Arab Ki Sarai","Delhi","South East Delhi","Nizamuddin","Delhi","Heritage","Lesser-known","Heritage","Medium","Nizamuddin & South-East Delhi Circuit","A heritage site in Delhi's South East Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage",""
+"Tomb of Abdur Rahim Khan-i-Khana","Delhi","South East Delhi","Nizamuddin","Delhi","Heritage","Hidden","Heritage","High","Nizamuddin & South-East Delhi Circuit","A heritage site in Delhi's South East Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Nizamuddin Baoli","Delhi","South East Delhi","Nizamuddin","Delhi","Heritage","Lesser-known","Heritage","Medium","Nizamuddin & South-East Delhi Circuit","A historic stepwell in the Nizamuddin heritage precinct, linked to the area's long-standing Sufi cultural landscape.","heritage, local life",""
+"Hazrat Nizamuddin Auliya Dargah","Delhi","South East Delhi","Nizamuddin West","New Delhi","Religious","Lesser-known","Heritage & Spiritual","Medium","Nizamuddin & South-East Delhi Circuit","A religious and cultural site in Delhi's South East Delhi area, combining local traditions with the city's historic urban fabric.","spiritual",""
+"Kalindi Kunj","Delhi","South East Delhi","Okhla","Delhi","Nature","Lesser-known","Nature & Urban Ecology","Medium","Nizamuddin & South-East Delhi Circuit","An urban green or ecological destination in Delhi's South East Delhi area, suited to a quieter nature-focused experience.","",""
+"Okhla Bird Sanctuary","Delhi","South East Delhi","Okhla","New Delhi","Wildlife","Famous","Nature & Urban Ecology","Medium","Nizamuddin & South-East Delhi Circuit","A wetland on the Yamuna supporting resident and migratory birds and offering one of Delhi's most accessible birdwatching experiences.","nature",""
+"Lotus Temple","Delhi","South East Delhi","Kalkaji","New Delhi","Religious","Famous","Heritage & Spiritual","Medium","Delhi Urban Heritage & Culture Circuit","A religious and cultural site in Delhi's South East Delhi area, combining local traditions with the city's historic urban fabric.","spiritual",""
+"ISKCON Temple Delhi","Delhi","South East Delhi","East of Kailash","New Delhi","Religious","Famous","Heritage & Spiritual","Medium","Delhi Urban Heritage & Culture Circuit","A religious and cultural site in Delhi's South East Delhi area, combining local traditions with the city's historic urban fabric.","spiritual",""
+"Shri Kalkaji Mandir","Delhi","South East Delhi","Kalkaji","Delhi","Religious","Famous","Heritage & Spiritual","Medium","Delhi Urban Heritage & Culture Circuit","A religious and cultural site in Delhi's South East Delhi area, combining local traditions with the city's historic urban fabric.","spiritual",""
+"Ashokan Rock Edict Bahapur","Delhi","South East Delhi","East of Kailash","Delhi","Heritage","Offbeat","Heritage & Culture","High","Delhi Urban Heritage & Culture Circuit","A Delhi destination in the South East Delhi area with heritage and cultural interest.","",""
+"Sanjay Lake","Delhi","East Delhi","Mayur Vihar","Delhi","Water Body","Lesser-known","Nature & Urban Ecology","Medium","East & South-East Delhi Urban Circuit","An urban green or ecological destination in Delhi's East Delhi area, suited to a quieter nature-focused experience.","nature",""
+"EOD Adventure Park","Delhi","East Delhi","Mayur Vihar","Delhi","Amusement","Lesser-known","Nature & Urban Ecology","Medium","East & South-East Delhi Urban Circuit","An urban green or ecological destination in Delhi's East Delhi area, suited to a quieter nature-focused experience.","nature",""
+"Swaminarayan Akshardham Temple","Delhi","East Delhi","Pandav Nagar","New Delhi","Religious","Famous","Heritage & Spiritual","Medium","East & South-East Delhi Urban Circuit","A religious and cultural site in Delhi's East Delhi area, combining local traditions with the city's historic urban fabric.","heritage, spiritual",""
+"Waste to Wonder Park","Delhi","South East Delhi","Sarai Kale Khan","Delhi","Recreation","Lesser-known","Nature & Urban Ecology","Medium","East & South-East Delhi Urban Circuit","An urban green or ecological destination in Delhi's South East Delhi area, suited to a quieter nature-focused experience.","nature",""
+"Millennium Park","Delhi","South East Delhi","Sarai Kale Khan","Delhi","Garden","Lesser-known","Nature & Urban Ecology","Medium","East & South-East Delhi Urban Circuit","An urban green or ecological destination in Delhi's South East Delhi area, suited to a quieter nature-focused experience.","nature",""
+"Nehru Place Market","Delhi","South East Delhi","Nehru Place","New Delhi","Market","Lesser-known","Urban Culture & Markets","Medium","East & South-East Delhi Urban Circuit","A distinctive Delhi market or neighbourhood experience in the South East Delhi area, suited to exploring local commerce and urban culture.","local life, food & shopping",""
+"Asola Bhatti Wildlife Sanctuary","Delhi","South Delhi","Asola","Delhi","Wildlife","Lesser-known","Nature & Urban Ecology","Medium","Delhi Ridge, Asola & Peripheral Heritage Circuit","A large protected forest and quarry landscape on the southern Delhi Ridge, important for biodiversity, birdlife and nature-oriented outings.","nature",""
+"Tilpath Valley Biodiversity Park","Delhi","South Delhi","Sainik Farm","Delhi","Wildlife","Lesser-known","Nature & Urban Ecology","Medium","Delhi Ridge, Asola & Peripheral Heritage Circuit","An urban green or ecological destination in Delhi's South Delhi area, suited to a quieter nature-focused experience.","nature",""
+"Mahipalpur Hunting Lodge","Delhi","New Delhi","Mahipalpur","Delhi","Heritage","Offbeat","Heritage & Culture","High","Delhi Ridge, Asola & Peripheral Heritage Circuit","A Delhi destination in the New Delhi area with heritage and cultural interest.","",""
+"Malcha Mahal","Delhi","New Delhi","Chanakyapuri","Delhi","Heritage","Hidden","Heritage & Culture","High","Delhi Ridge, Asola & Peripheral Heritage Circuit","A secluded historic hunting lodge associated with Delhi's forested Ridge landscape, valued for its remote setting and heritage character.","hidden heritage",""
+"Gumti of Shaikh Ali","Delhi","South Delhi","Defence Colony","Delhi","Heritage","Hidden","Heritage & Culture","High","Delhi Ridge, Asola & Peripheral Heritage Circuit","A Delhi destination in the South Delhi area with heritage and cultural interest.","hidden heritage",""
+"Bijri Khan's Tomb","Delhi","South Delhi","RK Puram","Delhi","Heritage","Hidden","Heritage","High","Delhi Urban Heritage & Culture Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Haji Langa's Gumbad","Delhi","South Delhi","RK Puram","Delhi","Heritage","Hidden","Heritage","High","Delhi Ridge, Asola & Peripheral Heritage Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Tomb of Shaikh Ziyauddin Rumi","Delhi","South Delhi","Kalu Sarai","Delhi","Heritage","Hidden","Heritage","High","Delhi Ridge, Asola & Peripheral Heritage Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Tomb of Shaikh Usman Saiyah","Delhi","South Delhi","Khirki","Delhi","Heritage","Hidden","Heritage","High","Delhi Ridge, Asola & Peripheral Heritage Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Tomb of Shaikh Salahuddin Darwesh","Delhi","South Delhi","Shaikh Sarai","Delhi","Heritage","Hidden","Heritage","High","Delhi Ridge, Asola & Peripheral Heritage Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Majlis Khana Shaikh Sarai","Delhi","South Delhi","Shaikh Sarai","Delhi","Heritage","Hidden","Heritage","High","Delhi Ridge, Asola & Peripheral Heritage Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Baradari Mosque Sadhna Enclave","Delhi","South Delhi","Sadhna Enclave","Delhi","Heritage","Hidden","Heritage & Spiritual","High","Delhi Urban Heritage & Culture Circuit","A religious and cultural site in Delhi's South Delhi area, combining local traditions with the city's historic urban fabric.","heritage, hidden heritage",""
+"Kharbuze Ka Gumbad","Delhi","South Delhi","Panchsheel Park","Delhi","Heritage","Hidden","Heritage","High","Delhi Ridge, Asola & Peripheral Heritage Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Sarai of Basant","Delhi","South Delhi","Basant Range","Delhi","Heritage","Hidden","Heritage","High","Delhi Urban Heritage & Culture Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Tomb near Yusuf Sarai","Delhi","South Delhi","Gautam Nagar","Delhi","Heritage","Hidden","Heritage","High","Delhi Urban Heritage & Culture Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Tomb at Katwari Serai","Delhi","South Delhi","Katwari Serai","Delhi","Heritage","Hidden","Heritage","High","Delhi Urban Heritage & Culture Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Tomb at Munirka","Delhi","South Delhi","Munirka","Delhi","Heritage","Hidden","Heritage","High","Delhi Urban Heritage & Culture Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Wall Mosque RK Puram","Delhi","South Delhi","RK Puram","Delhi","Heritage","Hidden","Heritage & Spiritual","High","Delhi Urban Heritage & Culture Circuit","A religious and cultural site in Delhi's South Delhi area, combining local traditions with the city's historic urban fabric.","heritage, hidden heritage",""
+"Gateway of Mahaldar Khan Garden","Delhi","North Delhi","Rana Pratap Bagh","Delhi","Heritage","Hidden","Nature & Urban Ecology","High","North-West Delhi Heritage Circuit","An urban green or ecological destination in Delhi's North Delhi area, suited to a quieter nature-focused experience.","heritage, nature, hidden heritage",""
+"Burjs of Mansur","Delhi","North West Delhi","Ashok Vihar","Delhi","Heritage","Hidden","Heritage & Culture","High","North-West Delhi Heritage Circuit","A Delhi destination in the North West Delhi area with heritage and cultural interest.","hidden heritage",""
+"Maqbara Paik","Delhi","North Delhi","GT Karnal Road","Delhi","Heritage","Offbeat","Heritage & Culture","High","North-West Delhi Heritage Circuit","A Delhi destination in the North Delhi area with heritage and cultural interest.","",""
+"Baoli Dwarka","Delhi","South West Delhi","Dwarka","Delhi","Heritage","Hidden","Heritage","High","Delhi Ridge, Asola & Peripheral Heritage Circuit","A heritage site in Delhi's South West Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, local life, hidden heritage",""
+"Badarpur Sarai Northern Gateway","Delhi","South East Delhi","Badarpur","Delhi","Heritage","Hidden","Heritage","High","Delhi Ridge, Asola & Peripheral Heritage Circuit","A heritage site in Delhi's South East Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Badarpur Sarai Central Gateway","Delhi","South East Delhi","Badarpur","Delhi","Heritage","Hidden","Heritage","High","Delhi Ridge, Asola & Peripheral Heritage Circuit","A heritage site in Delhi's South East Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Badarpur Sarai Southern Gateway","Delhi","South East Delhi","Badarpur","Delhi","Heritage","Hidden","Heritage","High","Delhi Ridge, Asola & Peripheral Heritage Circuit","A heritage site in Delhi's South East Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Kos Minar Badarpur","Delhi","South East Delhi","Badarpur","Delhi","Heritage","Hidden","Heritage","High","North-West Delhi Heritage Circuit","A heritage site in Delhi's South East Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Kos Minar Mahigirm","Delhi","South East Delhi","Badarpur","Delhi","Heritage","Hidden","Heritage","High","North-West Delhi Heritage Circuit","A heritage site in Delhi's South East Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Kos Minar Kureni","Delhi","North West Delhi","Kureni","Delhi","Heritage","Hidden","Heritage","High","North-West Delhi Heritage Circuit","A heritage site in Delhi's North West Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Eastern Gateway Chirag Delhi","Delhi","South Delhi","Chirag Delhi","Delhi","Heritage","Hidden","Heritage","High","Sultanate Delhi & Southern Ridge Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Southern Gateway Chirag Delhi","Delhi","South Delhi","Chirag Delhi","Delhi","Heritage","Hidden","Heritage","High","Sultanate Delhi & Southern Ridge Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Northern Gateway Chirag Delhi","Delhi","South Delhi","Chirag Delhi","Delhi","Heritage","Hidden","Heritage","High","Sultanate Delhi & Southern Ridge Circuit","A heritage site in Delhi's South Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Turkman Gate","Delhi","Central Delhi","Turkman Gate","Delhi","Heritage","Offbeat","Heritage & Culture","High","Old Delhi & Mughal Core Circuit","A Delhi destination in the Central Delhi area with heritage and cultural interest.","",""
+"Imambara Qutub Road","Delhi","Central Delhi","Qutub Road","Delhi","Heritage","Hidden","Heritage & Culture","High","Old Delhi & Mughal Core Circuit","A Delhi destination in the Central Delhi area with heritage and cultural interest.","hidden heritage",""
+"Sayed Abid's Tomb","Delhi","New Delhi","Delhi Golf Club","Delhi","Heritage","Hidden","Heritage","High","Delhi Urban Heritage & Culture Circuit","A heritage site in Delhi's New Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Sarai of Azimganj","Delhi","Central Delhi","National Zoological Park","Delhi","Heritage","Hidden","Heritage","High","Delhi Urban Heritage & Culture Circuit","A heritage site in Delhi's Central Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Tomb inside National Zoological Park","Delhi","Central Delhi","National Zoological Park","Delhi","Heritage","Hidden","Nature & Urban Ecology","High","Delhi Urban Heritage & Culture Circuit","An urban green or ecological destination in Delhi's Central Delhi area, suited to a quieter nature-focused experience.","heritage, nature, hidden heritage",""
+"Baradari Tomb Vasant Vihar","Delhi","South West Delhi","Vasant Vihar","Delhi","Heritage","Hidden","Heritage","High","Delhi Urban Heritage & Culture Circuit","A heritage site in Delhi's South West Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"Mahal Mahipalpur","Delhi","South West Delhi","Mahipalpur","Delhi","Heritage","Hidden","Heritage & Culture","High","Delhi Ridge, Asola & Peripheral Heritage Circuit","A Delhi destination in the South West Delhi area with heritage and cultural interest.","hidden heritage",""
+"Zail Bawana","Delhi","North West Delhi","Bawana","Delhi","Heritage","Hidden","Heritage & Culture","High","North-West Delhi Heritage Circuit","A Delhi destination in the North West Delhi area with heritage and cultural interest.","hidden heritage",""
+"Charkha Museum","Delhi","New Delhi","New Delhi","New Delhi","Museum","Lesser-known","Culture & Museum","Medium","Delhi Urban Heritage & Culture Circuit","A cultural institution or museum in Delhi's New Delhi area, suited to learning about the city's history, arts or public institutions.","culture",""
+"Dargah Nizamuddin Aulia","Delhi","South East Delhi","Nizamuddin","New Delhi","Religious","Lesser-known","Heritage & Spiritual","Medium","Nizamuddin & South-East Delhi Circuit","A religious and cultural site in Delhi's South East Delhi area, combining local traditions with the city's historic urban fabric.","spiritual",""
+"Darya Khan's Tomb","Delhi","New Delhi","New Delhi","New Delhi","Heritage","Hidden","Heritage","High","Delhi Urban Heritage & Culture Circuit","A heritage site in Delhi's New Delhi area, offering an opportunity to explore the city's layered architectural and historical landscape.","heritage, hidden heritage",""
+"India Africa Friendship Rose Garden","Delhi","New Delhi","New Delhi","New Delhi","Garden","Lesser-known","Nature & Urban Ecology","Medium","Delhi Urban Heritage & Culture Circuit","An urban green or ecological destination in Delhi's New Delhi area, suited to a quieter nature-focused experience.","nature",""
+"Indian War Memorial Museum","Delhi","New Delhi","New Delhi","New Delhi","Museum","Lesser-known","Culture & Museum","Medium","New Delhi Civic & Museum Circuit","A cultural institution or museum in Delhi's New Delhi area, suited to learning about the city's history, arts or public institutions.","culture",""
+"Indraprastha Park","Delhi","South East Delhi","Sarai Kale Khan","Delhi","Garden","Lesser-known","Nature & Urban Ecology","Medium","East & South-East Delhi Urban Circuit","An urban green or ecological destination in Delhi's South East Delhi area, suited to a quieter nature-focused experience.","nature",""
+"Mumtaz Mahal","Delhi","Central Delhi","Red Fort","Delhi","Heritage","Hidden","Heritage & Culture","High","Delhi Urban Heritage & Culture Circuit","A Delhi destination in the Central Delhi area with heritage and cultural interest.","hidden heritage",""
+"Ram Yantra","Delhi","New Delhi","Jantar Mantar","New Delhi","Heritage","Offbeat","Heritage & Culture","High","Delhi Urban Heritage & Culture Circuit","A Delhi destination in the New Delhi area with heritage and cultural interest.","",""
+"Shanti Stupa Delhi","Delhi","New Delhi","New Delhi","New Delhi","Religious","Offbeat","Heritage & Spiritual","High","Delhi Urban Heritage & Culture Circuit","A religious and cultural site in Delhi's New Delhi area, combining local traditions with the city's historic urban fabric.","spiritual",""
+"Shri Laxmi Narayan Temple","Delhi","New Delhi","Mandir Marg","Delhi","Religious","Lesser-known","Heritage & Spiritual","Medium","Delhi Urban Heritage & Culture Circuit","A religious and cultural site in Delhi's New Delhi area, combining local traditions with the city's historic urban fabric.","spiritual",""
