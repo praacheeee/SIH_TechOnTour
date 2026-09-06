@@ -1,11 +1,11 @@
 place_name,state_ut,district,city_or_town,nearest_major_city,category
 Bhawanipur Maa Kali Mandir Park,Jharkhand,Bokaro,Bokaro,Ranchi,Religious
-Gayatri Mandir,Bokaro,Bokaro,Bokaro,Ranchi,Religious
-Jagannath Mandir Bokaro,Bokaro,Bokaro,Bokaro,Ranchi,Religious
-Jama Masjid Sector-4,Bokaro,Bokaro,Bokaro,Ranchi,Religious
-Park,Bokaro,Bokaro,Bokaro,Ranchi,Recreation
-RADIO Tower Chowk,Bokaro,Bokaro,Bokaro,Ranchi,Landmark
-Shree Ayyappa Temple,Bokaro,Bokaro,Bokaro,Ranchi,Religious
+Gayatri Mandir,Jharkhand,Bokaro,Bokaro,Ranchi,Religious
+Jagannath Mandir Bokaro,Jharkhand,Bokaro,Bokaro,Ranchi,Religious
+Jama Masjid Sector-4,Jharkhand,Bokaro,Bokaro,Ranchi,Religious
+Park,Jharkhand,Bokaro,Bokaro,Ranchi,Recreation
+RADIO Tower Chowk,Jharkhand,Bokaro,Bokaro,Ranchi,Landmark
+Shree Ayyappa Temple,Jharkhand,Bokaro,Bokaro,Ranchi,Religious
 Bekarbandh Park,Jharkhand,Dhanbad,Dhanbad,Ranchi,Recreation
 Govardhan Eco Restoration Park,Jharkhand,Dhanbad,Dhanbad,Ranchi,Nature
 Hirapur Durga Mandir,Jharkhand,Dhanbad,Dhanbad,Ranchi,Religious
@@ -14,19 +14,21 @@ Rajendra Sarovar Park,Jharkhand,Dhanbad,Dhanbad,Ranchi,Recreation
 Sai Baba Mandir,Jharkhand,Dhanbad,Dhanbad,Ranchi,Religious
 Shakti Mandir,Jharkhand,Dhanbad,Dhanbad,Ranchi,Religious
 Vaishnavi & Vaibhavi Wellbeing Hub,Jharkhand,Dhanbad,Dhanbad,Ranchi,Recreation
-Bat Island,Jharkhand,East Singhbhum,Jamshedpur,Ranchi,Nature
-Bhatia Park,Jharkhand,East Singhbhum,Jamshedpur,Ranchi,Recreation
-Dalma Wildlife Sanctuary,Jharkhand,East Singhbhum,Jamshedpur,Ranchi,Wildlife
-Dimna Lake,Jharkhand,East Singhbhum,Jamshedpur,Ranchi,Lake
-Eco-Park,Jharkhand,East Singhbhum,Jamshedpur,Ranchi,Recreation
-Jamshedpur Coin Museum,Jharkhand,East Singhbhum,Jamshedpur,Ranchi,Museum
-Jubilee Park,Jharkhand,East Singhbhum,Jamshedpur,Ranchi,Recreation
-Millennium Park,Jharkhand,East Singhbhum,Jamshedpur,Ranchi,Recreation
-Moolgaokar Park,Jharkhand,East Singhbhum,Jamshedpur,Ranchi,Recreation
-Sir Dorabji Tata Park,Jharkhand,East Singhbhum,Jamshedpur,Ranchi,Recreation
-Tata Zoo Lake,Jharkhand,East Singhbhum,Jamshedpur,Ranchi,Lake
+Bat Island,Jharkhand,East Singhbhum,Jamshedpur,Jamshedpur,Nature
+Bhatia Park,Jharkhand,East Singhbhum,Jamshedpur,Jamshedpur,Recreation
+Dalma Wildlife Sanctuary,Jharkhand,East Singhbhum,Jamshedpur,Jamshedpur,Wildlife
+Dimna Lake,Jharkhand,East Singhbhum,Jamshedpur,Jamshedpur,Lake
+Eco-Park,Jharkhand,East Singhbhum,Jamshedpur,Jamshedpur,Recreation
+Jamshedpur Coin Museum,Jharkhand,East Singhbhum,Jamshedpur,Jamshedpur,Museum
+Jubilee Park,Jharkhand,East Singhbhum,Jamshedpur,Jamshedpur,Recreation
+Millennium Park,Jharkhand,East Singhbhum,Jamshedpur,Jamshedpur,Recreation
+Moolgaokar Park,Jharkhand,East Singhbhum,Jamshedpur,Jamshedpur,Recreation
+Sir Dorabji Tata Park,Jharkhand,East Singhbhum,Jamshedpur,Jamshedpur,Recreation
+Tata Zoo Lake,Jharkhand,East Singhbhum,Jamshedpur,Jamshedpur,Lake
 Kabir Gyan Mandir,Jharkhand,Giridih,Giridih,Ranchi,Religious
 Khandoli Park,Jharkhand,Giridih,Giridih,Ranchi,Recreation
+Khandoli Hill,Jharkhand,Giridih,Khandoli,Ranchi,Mountain
+Khandoli Dam,Jharkhand,Giridih,Giridih,Ranchi,Dam
 Biodiversity Park,Jharkhand,Ranchi,Ranchi,Ranchi,Nature
 Dhurwa Dam Park,Jharkhand,Ranchi,Ranchi,Ranchi,Recreation
 Jagannath Mandir,Jharkhand,Ranchi,Ranchi,Ranchi,Religious
@@ -34,14 +36,20 @@ Kanke Dam Park,Jharkhand,Ranchi,Ranchi,Ranchi,Recreation
 Oxygen Park,Jharkhand,Ranchi,Ranchi,Ranchi,Recreation
 Shahid Sankalp Children Park,Jharkhand,Ranchi,Ranchi,Ranchi,Recreation
 State Museum,Jharkhand,Ranchi,Ranchi,Ranchi,Museum
-Baba Baidyanath Jyotirlinga Temple,Jharkhand,Deoghar,Deoghar,Ranchi,Religious
+Pahari Mandir,Jharkhand,Ranchi,Ranchi,Ranchi,Religious
+Tagore Hill,Jharkhand,Ranchi,Ranchi,Ranchi,Heritage
+Ranchi Lake,Jharkhand,Ranchi,Ranchi,Ranchi,Lake
+Rock Garden Ranchi,Jharkhand,Ranchi,Ranchi,Ranchi,Park
+Baba Baidyanath Jyotirlinga Temple,Jharkhand,Deoghar,Deoghar,Deoghar,Religious
 Netarhat,Jharkhand,Latehar,Netarhat,Ranchi,Hill Station
-Lodh Falls,Jharkhand,Latehar,Latehar,Ranchi,Waterfall
+Lodh Falls,Jharkhand,Latehar,Burha,Ranchi,Waterfall
 Betla National Park,Jharkhand,Latehar,Betla,Ranchi,Wildlife
 Upper Ghaghri Falls,Jharkhand,Latehar,Netarhat,Ranchi,Waterfall
+Lower Ghagri Waterfall,Jharkhand,Latehar,Netarhat,Ranchi,Waterfall
 Palamu Tiger Reserve,Jharkhand,Latehar,Betla,Ranchi,Wildlife
+Palamu Fort,Jharkhand,Latehar,Daltonganj,Ranchi,Fort
 Kiriburu,Jharkhand,West Singhbhum,Kiriburu,Jamshedpur,Hill Station
-Hundru Falls,Jharkhand,Ranchi,Ranchi,Ranchi,Waterfall
+Hundru Falls,Jharkhand,Ranchi,Hundru,Ranchi,Waterfall
 Dassam Falls,Jharkhand,Ranchi,Taimara,Ranchi,Waterfall
 Jonha Falls,Jharkhand,Ranchi,Jonha,Ranchi,Waterfall
 Patratu Valley,Jharkhand,Ramgarh,Patratu,Ranchi,Valley
@@ -53,30 +61,32 @@ Usri Falls,Jharkhand,Giridih,Giridih,Ranchi,Waterfall
 Maluti Temples,Jharkhand,Dumka,Maluti,Deoghar,Heritage
 Topchanchi Lake,Jharkhand,Dhanbad,Topchanchi,Ranchi,Lake
 Hazaribagh National Park,Jharkhand,Hazaribagh,Hazaribagh,Ranchi,Wildlife
-Trikuta Hills,Jharkhand,Deoghar,Deoghar,Ranchi,Mountain
-Tapovan,Jharkhand,Deoghar,Deoghar,Ranchi,Nature
-Jagannath Temple Deoghar,Jharkhand,Deoghar,Deoghar,Ranchi,Religious
+Trikuta Hills,Jharkhand,Deoghar,Deoghar,Deoghar,Mountain
+Tapovan,Jharkhand,Deoghar,Deoghar,Deoghar,Nature
+Jagannath Temple Deoghar,Jharkhand,Deoghar,Deoghar,Deoghar,Religious
 Chhinnamasta Temple,Jharkhand,Ramgarh,Rajrappa,Ranchi,Religious
 Sun Temple Ranchi,Jharkhand,Ranchi,Bundu,Ranchi,Religious
 Panch Gagh Falls,Jharkhand,Khunti,Khunti,Ranchi,Waterfall
-Hirni Falls,Jharkhand,West Singhbhum,Chaibasa,Jamshedpur,Waterfall
-Sita Falls,Jharkhand,Ranchi,Ranchi,Ranchi,Waterfall
-Lawapani Waterfall,Jharkhand,Latehar,Latehar,Ranchi,Waterfall
-Kanti Waterfalls,Jharkhand,Latehar,Latehar,Ranchi,Waterfall
-Mirchaiya Waterfalls,Jharkhand,Latehar,Garu,Ranchi,Waterfall
+Hirni Falls,Jharkhand,West Singhbhum,Bandgaon,Jamshedpur,Waterfall
+Sita Falls,Jharkhand,Ranchi,Jonha,Ranchi,Waterfall
+Lawapani Waterfall,Jharkhand,Ranchi,Tamar,Ranchi,Waterfall
+Kanti Waterfalls,Jharkhand,Latehar,Mahuadanr,Ranchi,Waterfall
+Mirchaiya Waterfalls,Jharkhand,Latehar,Mahuadanr,Ranchi,Waterfall
 Suga Bandh Waterfall,Jharkhand,Latehar,Baresand,Ranchi,Waterfall
-Lower Ghagri Waterfall,Jharkhand,Latehar,Netarhat,Ranchi,Waterfall
-Ghaghari Dham Waterfall,Jharkhand,Latehar,Latehar,Ranchi,Waterfall
+Ghaghari Dham Waterfall,Jharkhand,Latehar,Netarhat,Ranchi,Waterfall
 Indra Waterfall,Jharkhand,Latehar,Tubed,Ranchi,Waterfall
 Sarju Valley,Jharkhand,Latehar,Garu,Ranchi,Valley
-Jhariya Dam,Jharkhand,Latehar,Latehar,Ranchi,Dam
+Jhariya Dam,Jharkhand,Latehar,Garu,Ranchi,Dam
 Netarhat Dam,Jharkhand,Latehar,Netarhat,Ranchi,Dam
 Naspati Garden Netarhat,Jharkhand,Latehar,Netarhat,Ranchi,Nature
 Magnolia Sunset Point,Jharkhand,Latehar,Netarhat,Ranchi,Viewpoint
 Koel View Point,Jharkhand,Latehar,Netarhat,Ranchi,Viewpoint
+Sunrise Point Netarhat,Jharkhand,Latehar,Netarhat,Ranchi,Viewpoint
+Kamaldah Talab,Jharkhand,Latehar,Netarhat,Ranchi,Lake
+Tattapani Hot Water Spring,Jharkhand,Latehar,Jagram,Ranchi,Hot Spring
 Chandil Dam,Jharkhand,Saraikela Kharsawan,Chandil,Jamshedpur,Dam
 Burudih Lake,Jharkhand,East Singhbhum,Ghatshila,Jamshedpur,Lake
-Dalma Hills,Jharkhand,East Singhbhum,Jamshedpur,Jamshedpur,Mountain
+Dalma Hills,Jharkhand,East Singhbhum,Dalma,Jamshedpur,Mountain
 Saranda Forest,Jharkhand,West Singhbhum,Kiriburu,Jamshedpur,Forest
 Meghahatuburu,Jharkhand,West Singhbhum,Meghahatuburu,Jamshedpur,Hill Station
 Panch Pandav Waterfall,Jharkhand,West Singhbhum,Chaibasa,Jamshedpur,Waterfall
@@ -103,24 +113,23 @@ Panchrukhi Waterfall,Jharkhand,Sahibganj,Sahibganj,Deoghar,Waterfall
 Pakur Rajbari,Jharkhand,Pakur,Pakur,Deoghar,Heritage
 Amadubi Rural Art Village,Jharkhand,East Singhbhum,Amadubi,Jamshedpur,Cultural
 Bhuvaneshwari Temple,Jharkhand,East Singhbhum,Jamshedpur,Jamshedpur,Religious
-Dimna Forest,Jharkhand,East Singhbhum,Jamshedpur,Jamshedpur,Forest
+Dimna Forest,Jharkhand,East Singhbhum,Dimna,Jamshedpur,Forest
 Khukhragarh Archaeological Site,Jharkhand,Ranchi,Khukhragarh,Ranchi,Archaeological
 Jagannathpur Temple Khunti,Jharkhand,Khunti,Khunti,Ranchi,Religious
 Angrabadi Temple Complex,Jharkhand,Khunti,Khunti,Ranchi,Religious
 Birsa Munda Tribal University Area,Jharkhand,Khunti,Khunti,Ranchi,Cultural
-Pahari Mandir Viewpoint,Jharkhand,Ranchi,Ranchi,Ranchi,Viewpoint
 Jagannathpur Lake Ranchi,Jharkhand,Ranchi,Ranchi,Ranchi,Lake
-Hatia Dam,Jharkhand,Ranchi,Ranchi,Ranchi,Dam
+Hatia Dam,Jharkhand,Ranchi,Hatia,Ranchi,Dam
 Getalsud Dam,Jharkhand,Ranchi,Ormanjhi,Ranchi,Dam
 Dassam Viewpoint,Jharkhand,Ranchi,Taimara,Ranchi,Viewpoint
-Hundru Viewpoint,Jharkhand,Ranchi,Ranchi,Ranchi,Viewpoint
+Hundru Viewpoint,Jharkhand,Ranchi,Hundru,Ranchi,Viewpoint
 Bhatinda Waterfall,Jharkhand,Dhanbad,Baliapur,Ranchi,Waterfall
 Maithon Dam,Jharkhand,Dhanbad,Maithon,Ranchi,Dam
 Panchet Dam,Jharkhand,Dhanbad,Panchet,Ranchi,Dam
 Bhatinda Falls Nature Trail,Jharkhand,Dhanbad,Baliapur,Ranchi,Trek
 Koderma Wildlife Sanctuary,Jharkhand,Koderma,Koderma,Ranchi,Wildlife
 Koderma Dam,Jharkhand,Koderma,Koderma,Ranchi,Dam
-Chakri Pahad,Jharkhand,Latehar,Latehar,Ranchi,Mountain
+Chakri Pahad,Jharkhand,Koderma,Koderma,Ranchi,Mountain
 Sita Garha Waterfall,Jharkhand,Hazaribagh,Hazaribagh,Ranchi,Waterfall
 Konar Dam,Jharkhand,Hazaribagh,Konar,Ranchi,Dam
 Canary Hill,Jharkhand,Hazaribagh,Hazaribagh,Ranchi,Hill Station
@@ -133,15 +142,14 @@ Patratu Forest Valley,Jharkhand,Ramgarh,Patratu,Ranchi,Forest
 Chutupalu Valley,Jharkhand,Ramgarh,Chutupalu,Ranchi,Valley
 Kumari Dam,Jharkhand,Ramgarh,Ramgarh,Ranchi,Dam
 Sita Kund,Jharkhand,Ramgarh,Ramgarh,Ranchi,Natural Spring
-Deori Temple,Jharkhand,Tamar,Tamar,Ranchi,Religious
+Deori Temple,Jharkhand,Ranchi,Tamar,Ranchi,Religious
 Madhuban Jain Temple Complex,Jharkhand,Giridih,Madhuban,Ranchi,Religious
-Khandoli Hill,Jharkhand,Giridih,Khandoli,Ranchi,Mountain
 Jharkhandi Dham,Jharkhand,Giridih,Jharkhandi Dham,Ranchi,Religious
 Harihar Dham,Jharkhand,Giridih,Bagodar,Ranchi,Religious
 Madhuban Forest Trails,Jharkhand,Giridih,Madhuban,Ranchi,Trek
-Shivganga Deoghar,Jharkhand,Deoghar,Deoghar,Ranchi,Religious
-Naulakha Mandir Deoghar,Jharkhand,Deoghar,Deoghar,Ranchi,Religious
-Rikhia Yogashram,Jharkhand,Deoghar,Rikhia,Ranchi,Cultural
+Shivganga Deoghar,Jharkhand,Deoghar,Deoghar,Deoghar,Religious
+Naulakha Mandir Deoghar,Jharkhand,Deoghar,Deoghar,Deoghar,Religious
+Rikhia Yogashram,Jharkhand,Deoghar,Rikhia,Deoghar,Cultural
 Baskinath Forest Trail,Jharkhand,Dumka,Basukinath,Deoghar,Trek
 Masanjor Forest Trails,Jharkhand,Dumka,Massanjore,Deoghar,Trek
 Mayurakshi River Viewpoint,Jharkhand,Dumka,Dumka,Deoghar,Viewpoint
